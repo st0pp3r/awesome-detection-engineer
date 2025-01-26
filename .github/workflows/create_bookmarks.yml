@@ -6,6 +6,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   create-bookmarks:
     runs-on: ubuntu-latest
@@ -32,5 +35,3 @@ jobs:
         git push https://x-access-token:$GITHUB_TOKEN@github.com/st0pp3r/Supreme-Detection-Engineer.git
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      permissions:
-        contents: write
