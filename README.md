@@ -7,12 +7,14 @@
 - [Vendor Documentation](#vendor-documentation) - Online vendor documentation for event logs.
 
 ### Detection Rules
-- [Sigma Rules](https://github.com/SigmaHQ/sigma) - Huge collection of detection rules.
-- [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Detection Rules Repository](https://github.com/elastic/detection-rules/tree/main/rules)- Elastic prebuilt rules.
-- [Splunk Rules](https://research.splunk.com/detections/) - Splunk's list of detection rules.
+- [Sigma Rules](https://github.com/SigmaHQ/sigma) - Huge collection of detection rules from SIGMA HQ.
+- [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Detection Rules Repository](https://github.com/elastic/detection-rules/tree/main/rules)- Elastic's detection rules.
+- [Splunk Rules](https://research.splunk.com/detections/)and [Splunk Detection Rules Respository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
 - [SOC Prime](https://socprime.com/)- Great collection of free and paid detection rules.
-- [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM rules.
+- [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
+- [The DFIR Report Detection Rules](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of rules from https://thedfirreport.com/
+- [Sigma Detection Rules from @mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) 
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
