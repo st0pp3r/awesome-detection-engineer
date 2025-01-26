@@ -3,7 +3,6 @@ name: Create Bookmarks File
 on:
   push:
     paths:
-      - '*'
     branches:
       - main
 
