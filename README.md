@@ -17,10 +17,11 @@
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
 
 ### Resources
-- [MITRE ATT&CK®](https://attack.mitre.org/) MITRE ATT&CK knowledge base of adversary tactics and techniques.
-- [Active Directory Security](https://adsecurity.org/?page_id=4031) Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
-- [Red Canary's Atomics](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) Library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework.
-- [Red Canary's Atomics](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) Library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework.
+- [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
+- [Active Directory Security](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
+- [Red Canary's Atomics](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework.
+- [Uncoder IO](https://uncoder.io/) - Detection logic query converter.
+
 
 ### Vendor Documentation
 - [Windows Audit Policies and Event IDs](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings) - Documentation of Windows Event IDs and Audit Policies from Microsoft.
