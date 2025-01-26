@@ -1,4 +1,4 @@
-name: Generate Bookmarks File
+name: Create Bookmarks File
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
       - main
 
 jobs:
-  generate-bookmarks:
+  create-bookmarks:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,7 +20,7 @@ jobs:
       with:
         python-version: 3.x
 
-    - name: Generate bookmarks
+    - name: Create bookmarks
       run: |
         python .github/workflows/create_bookmarks.py
 

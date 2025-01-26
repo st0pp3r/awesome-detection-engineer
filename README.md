@@ -1,6 +1,6 @@
 # Supreme Detection Engineer [![URL Check](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)
 
- Online resources for Detection Engineers. Detection rules, event log references, attack samples and others.
+ Online resources for Detection Engineers. Detection rules, event log references, attack samples and others..
 
 ## Contents
 - [Detection Rules](#detection-rules) - Online databases with rules, use cases and detection logic.

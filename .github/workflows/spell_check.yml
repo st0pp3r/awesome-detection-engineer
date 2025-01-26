@@ -1,5 +1,11 @@
 name: Spell Check
-on: [pull_request, push]
+
+on:
+  push:
+    paths:
+      - 'README.md'
+    branches:
+      - main
 
 jobs:
   spell_check:

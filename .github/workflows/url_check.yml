@@ -1,7 +1,11 @@
 name: URL Check
+
 on:
-  pull_request:
   push:
+    paths:
+      - 'README.md'
+    branches:
+      - main
   schedule:
     - cron: '00 7 * * 1'
 
