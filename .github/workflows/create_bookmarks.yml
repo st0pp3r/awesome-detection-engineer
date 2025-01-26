@@ -3,7 +3,7 @@ name: Create Bookmarks File
 on:
   push:
     paths:
-      - 'README.md'
+      - '*'
     branches:
       - main
 
@@ -31,3 +31,5 @@ jobs:
         git add supreme_detection_engineer_bookmarks.html
         git commit -m "Create bookmarks file from README"
         git push
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
