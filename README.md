@@ -1,7 +1,8 @@
-# Supreme Detection Engineer
+# Supreme Detection Engineer [![URL Check](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)
+
  Online sources for Detection Engineers. Detection rules, online resources, vendor documentation and others.
 
-## Sections
+## Contents
 - [Detection Rules](#detection-rules) - Online databases with rules, use cases and detection logic.
 - [Resources](#resources) - Useful online resources for detection engineers.
 - [Vendor Documentation](#vendor-documentation) - Online vendor documentation for event logs.
