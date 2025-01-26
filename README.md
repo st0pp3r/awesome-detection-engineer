@@ -23,6 +23,7 @@
 - [KQL Queries from Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of KQL queries from [Cyb3r Monk](https://github.com/Cyb3r-Monk)
 - [KQL Queries for DefenderATP from 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of KQL queries from [0xAnalyst](https://github.com/0xAnalyst)
 - [KQL queries from Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of KQL queries from [Bert-JanP](https://github.com/Bert-JanP)
+- [KQL Search](https://www.kqlsearch.com/) - Collection of KQL queries from various github repositories.
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
