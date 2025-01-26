@@ -1,6 +1,6 @@
 # Supreme Detection Engineer [![URL Check](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)
 
- Online sources for Detection Engineers. Detection rules, online resources, event log references and others.
+ Online resources for Detection Engineers. Detection rules, event log references, attack samples and others.
 
 ## Contents
 - [Detection Rules](#detection-rules) - Online databases with rules, use cases and detection logic.
@@ -19,7 +19,7 @@
 - [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
-- [The DFIR Report Detection Rules](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of rules from https://thedfirreport.com/.
+- [Sigma Detection Rules from The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of rules from https://thedfirreport.com/.
 - [Sigma Detection Rules from mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules from [mdecrevoisie](https://github.com/mdecrevoisier).
 - [Sigma Detection Rules from Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules from [Yamato-Security](https://github.com/Yamato-Security).
 - [KQL Queries for Sentinel from reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries from [reprise99](https://github.com/reprise99).
