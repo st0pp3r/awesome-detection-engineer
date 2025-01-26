@@ -3,10 +3,10 @@ import re
 from html import escape
 
 # Input Markdown file
-README_FILE = "../../README.md"
+README_FILE = "README.md"
 
 # Output file
-BOOKMARKS_FILE = "../../supreme_detection_engineer_bookmarks.html"
+BOOKMARKS_FILE = "supreme_detection_engineer_bookmarks.html"
 
 def parse_markdown_to_links(markdown_file):
     """Parse the Markdown file and extract links organized by sections."""
