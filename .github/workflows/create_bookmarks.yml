@@ -29,6 +29,6 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add supreme_detection_engineer_bookmarks.html
         git commit -m "Create bookmarks file from README"
-        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/st0pp3r/Supreme-Detection-Engineer.git
+        git push https://x-access-token:$GITHUB_TOKEN@github.com/st0pp3r/Supreme-Detection-Engineer.git
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
