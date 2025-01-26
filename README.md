@@ -18,9 +18,9 @@
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
 - [The DFIR Report Detection Rules](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of rules from https://thedfirreport.com/.
 - [Sigma Detection Rules from mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules from [mdecrevoisie](https://github.com/mdecrevoisier)
-- [KQL Queries for DefenderATP from 0xAnalyst] (https://github.com/0xAnalyst/DefenderATPQueries) - Collection of sigma rules from [0xAnalyst](https://github.com/0xAnalyst)
+- [KQL Queries for DefenderATP from 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of sigma rules from [0xAnalyst](https://github.com/0xAnalyst)
 - [Sigma Detection Rules from Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules from [Yamato-Security](https://github.com/Yamato-Security)
-- [KQL Queries for Sentinel from reprise99] (https://github.com/reprise99/Sentinel-Queries) - Collection of sigma rules from [reprise99](https://github.com/reprise99)
+- [KQL Queries for Sentinel from reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of sigma rules from [reprise99](https://github.com/reprise99)
 - [KQL Queries from Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of sigma rules from [Cyb3r Monk](https://github.com/Cyb3r-Monk)
 - [Detection Rules from Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of sigma rules from [Bert-JanP](https://github.com/Bert-JanP)
 
