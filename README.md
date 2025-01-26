@@ -44,11 +44,10 @@
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
  - [Practical Threat Detection Engineering: A hands-on guide to planning, developing, and validating detection capabilities](https://www.packtpub.com/en-sg/product/practical-threat-detection-engineering-9781801076715)
- - [Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware 1st ed. Edition]
- - [# Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware](https://link.springer.com/book/10.1007/978-1-4842-6193-4)
+ - [Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware](https://link.springer.com/book/10.1007/978-1-4842-6193-4)
 
 ### Twitter
-[@cyb3rops](https://x.com/cyb3rops)
-[@SBousseaden](https://x.com/SBousseaden)
-[@Oddvarmoe](https://x.com/Oddvarmoe)
-[@sigma_hq](https://x.com/sigma_hq)
+- [@cyb3rops](https://x.com/cyb3rops)
+- [@SBousseaden](https://x.com/SBousseaden)
+- [@Oddvarmoe](https://x.com/Oddvarmoe)
+- [@sigma_hq](https://x.com/sigma_hq)
