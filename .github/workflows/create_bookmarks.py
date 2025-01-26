@@ -1,6 +1,11 @@
 import os
 import re
 from html import escape
+from datetime import datetime
+
+# Get the current date and time
+current_time = datetime.now()
+human_readable_time = current_time.strftime("%Y-%m-%d %H:%M:%S")
 
 # Input Markdown file
 README_FILE = "README.md"
@@ -36,6 +41,7 @@ def parse_markdown_to_links(markdown_file):
 def create_bookmark_html(links_by_section, title):
     """Generate an HTML file for browser bookmarks."""
     html = [
+        f"<!--{escape(human_readable_time)}-->"
         "<!DOCTYPE NETSCAPE-Bookmark-file-1>",
         "<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">",
         f"<TITLE>{escape(title)}</TITLE>",

@@ -25,7 +25,7 @@
 - [KQL Queries for Sentinel from reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries.
 - [KQL Queries from Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of KQL queries.
 - [KQL Queries for DefenderATP from 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of KQL queries.
-- [KQL queries from Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of KQL queries.
+- [KQL Queries from Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of KQL queries.
 - [KQL Search](https://www.kqlsearch.com/) - Collection of KQL queries from various github repositories.
 
 ### Attack Samples
