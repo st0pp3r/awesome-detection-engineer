@@ -22,7 +22,7 @@ jobs:
 
     - name: Generate bookmarks
       run: |
-        python create_bookmarks.py
+        python .github/workflows/create_bookmarks.py
 
     - name: Commit and push bookmarks
       run: |
