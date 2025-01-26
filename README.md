@@ -19,19 +19,19 @@
 - [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
-- [Sigma Detection Rules from The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of rules from https://thedfirreport.com/.
-- [Sigma Detection Rules from mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules from [mdecrevoisie](https://github.com/mdecrevoisier).
-- [Sigma Detection Rules from Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules from [Yamato-Security](https://github.com/Yamato-Security).
-- [KQL Queries for Sentinel from reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries from [reprise99](https://github.com/reprise99).
-- [KQL Queries from Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of KQL queries from [Cyb3r Monk](https://github.com/Cyb3r-Monk).
-- [KQL Queries for DefenderATP from 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of KQL queries from [0xAnalyst](https://github.com/0xAnalyst).
-- [KQL queries from Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of KQL queries from [Bert-JanP](https://github.com/Bert-JanP).
+- [Sigma Detection Rules from The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of sigma rules.
+- [Sigma Detection Rules from mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules.
+- [Sigma Detection Rules from Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules.
+- [KQL Queries for Sentinel from reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries.
+- [KQL Queries from Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of KQL queries.
+- [KQL Queries for DefenderATP from 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of KQL queries.
+- [KQL queries from Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of KQL queries.
 - [KQL Search](https://www.kqlsearch.com/) - Collection of KQL queries from various github repositories.
 
 ### Attack Samples
-- [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples from [sbousseaden](https://github.com/sbousseaden/).
-- [EVTX to MITRE Attack](https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack) - IOCs in EVTX format from [mdecrevoisier](https://github.com/mdecrevoisier).
-- [Security Datasets](https://github.com/OTRF/Security-Datasets/tree/master/datasets) - Datasets of malicious and benign indicators, from different platforms from [OTRF](https://github.com/OTRF).
+- [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples.
+- [EVTX to MITRE Attack](https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack) - IOCs in EVTX format.
+- [Security Datasets](https://github.com/OTRF/Security-Datasets/tree/master/datasets) - Datasets of malicious and benign indicators, from different platforms.
 - [Tool Analysis Results Sheet from jpcertcc](https://jpcertcc.github.io/ToolAnalysisResultSheet) - Results of examining logs recorded in Windows upon execution of 49 tools.
 
 ### Event Log References
