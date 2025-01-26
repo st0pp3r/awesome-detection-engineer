@@ -15,7 +15,15 @@
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
 
 ### Vendor Documentation
+- [Windows Audit Policies and Event IDs](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings) - Documentation of Windows Event IDs and Audit Policies from Microsoft.
+- [Windows Security Log Events Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j) - Documentation of Windows Event IDs.
+- [Cisco ASA Log Event IDs](https://www.cisco.com/c/en/us/td/docs/security/asa/syslog/b_syslog.html) - Cisco's ASA Event IDs syslog log format and log description.
+- [Palo Alto PAN-OS](https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-admin/monitoring/use-syslog-for-monitoring/syslog-field-descriptions) - Palo Alto's log field descriptions.
+- [FortiGate FortiOS Log Types and Subtypes](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/160372/list-of-log-types-and-subtypes) and [FortiGate FortiOS Log Fields](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/357866/log-message-fields) - Log format and log fields documentation for fortiOS.
+
 
 ### Resources
+- [MITRE ATT&CK](https://attack.mitre.org/) MITRE ATT&CK knowledge base of adversary tactics and techniques.
+- [Active Directory Security](https://adsecurity.org/?page_id=4031) Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 
 ### Must Reads
