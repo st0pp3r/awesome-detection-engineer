@@ -12,7 +12,7 @@
 ### Detection Rules
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Huge collection of detection rules from SIGMA HQ.
 - [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Detection Rules Repository](https://github.com/elastic/detection-rules/tree/main/rules)- Elastic's detection rules.
-- [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Detection Rules Respository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
+- [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Detection Rules Repository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
 - [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [SOC Prime](https://socprime.com/)- Great collection of free and paid detection rules.
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
