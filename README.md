@@ -12,18 +12,17 @@
 ### Detection Rules
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Huge collection of detection rules from SIGMA HQ.
 - [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Detection Rules Repository](https://github.com/elastic/detection-rules/tree/main/rules)- Elastic's detection rules.
-- [Splunk Rules](https://research.splunk.com/detections/)and [Splunk Detection Rules Respository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
+- [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Detection Rules Respository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
 - [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [SOC Prime](https://socprime.com/)- Great collection of free and paid detection rules.
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
 - [The DFIR Report Detection Rules](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of rules from https://thedfirreport.com/.
 - [Sigma Detection Rules from mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules from [mdecrevoisie](https://github.com/mdecrevoisier)
-- [KQL Queries for DefenderATP from 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of sigma rules from [0xAnalyst](https://github.com/0xAnalyst)
 - [Sigma Detection Rules from Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules from [Yamato-Security](https://github.com/Yamato-Security)
-- [KQL Queries for Sentinel from reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of sigma rules from [reprise99](https://github.com/reprise99)
-- [KQL Queries from Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of sigma rules from [Cyb3r Monk](https://github.com/Cyb3r-Monk)
-- [Detection Rules from Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of sigma rules from [Bert-JanP](https://github.com/Bert-JanP)
-
+- [KQL Queries for Sentinel from reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries from [reprise99](https://github.com/reprise99)
+- [KQL Queries from Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of KQL queries from [Cyb3r Monk](https://github.com/Cyb3r-Monk)
+- [KQL Queries for DefenderATP from 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of KQL queries from [0xAnalyst](https://github.com/0xAnalyst)
+- [KQL queries from Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of KQL queries from [Bert-JanP](https://github.com/Bert-JanP)
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
@@ -42,5 +41,13 @@
 ### Must Reads
 
 ### Books
+ - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
+ - [Practical Threat Detection Engineering: A hands-on guide to planning, developing, and validating detection capabilities](https://www.packtpub.com/en-sg/product/practical-threat-detection-engineering-9781801076715)
+ - [Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware 1st ed. Edition]
+ - [# Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware](https://link.springer.com/book/10.1007/978-1-4842-6193-4)
 
 ### Twitter
+[@cyb3rops](https://x.com/cyb3rops)
+[@SBousseaden](https://x.com/SBousseaden)
+[@Oddvarmoe](https://x.com/Oddvarmoe)
+[@sigma_hq](https://x.com/sigma_hq)
