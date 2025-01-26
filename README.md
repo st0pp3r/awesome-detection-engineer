@@ -1,16 +1,14 @@
 # Supreme Detection Engineer
- Online sources for Detection Engineers.
+ Online sources for Detection Engineers. Detection rules, online resources, vendor documentation and others.
 
 ## Sections
-- [Use Cases & Rules](#use-cases-&-rules) - Online databases with rules, use cases and detection logic.
+- [Detection Rules](#detection-rules) - Online databases with rules, use cases and detection logic.
 - [Resources](#resources) - Useful online resources for detection engineers.
 - [Vendor Documentation](#vendor-documentation) - Online vendor documentation for event logs.
 
-### Use Cases & Rules
+### Detection Rules
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Huge collection of detection rules.
-- [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html) - Elastic prebuilt rule reference.
-- [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) - Elastic  rule explorer.
-- [Elastic Detection Rules Repository](https://github.com/elastic/detection-rules/tree/main/rules) - Elastic detection rules repository.
+- [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Detection Rules Repository](https://github.com/elastic/detection-rules/tree/main/rules)- Elastic prebuilt rules.
 - [Splunk Rules](https://research.splunk.com/detections/) - Splunk's list of detection rules.
 - [SOC Prime](https://socprime.com/)- Great collection of free and paid detection rules.
 - [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM rules.
