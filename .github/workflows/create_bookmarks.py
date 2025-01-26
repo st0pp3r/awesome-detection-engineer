@@ -41,7 +41,7 @@ def parse_markdown_to_links(markdown_file):
 def create_bookmark_html(links_by_section, title):
     """Generate an HTML file for browser bookmarks."""
     html = [
-        f"<!--{escape(human_readable_time)}-->"
+        f"<!--{escape(human_readable_time)}-->",
         "<!DOCTYPE NETSCAPE-Bookmark-file-1>",
         "<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">",
         f"<TITLE>{escape(title)}</TITLE>",
