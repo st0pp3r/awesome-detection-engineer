@@ -11,6 +11,7 @@
 - [Online Tools](#online-tools) - Useful online tools for detection engineers.
 - [Blogs](#Blogs) -  Blogs that regularly release detection engineering related content.
 - [Good Reads](#good-reads) - Good blog posts related to detection engineering.
+- [Podcasts](#podcasts) - Podcasts focused on detection engineering.
 - [Books](#books) - Books on detection engineering.
 - [Trainings](#trainings) - Available trainings related to detection engineering.
 - [Twitter/X](#twitter/X) - Relevant Twitter/X accounts.
@@ -20,7 +21,7 @@
 - [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Detection Rules Repository](https://github.com/elastic/detection-rules/tree/main/rules)- Elastic's detection rules.
 - [Elastic Security for Endpoint Rules](https://github.com/elastic/protections-artifacts/tree/main)- Elastic's Security for Endpoint detection rules.
 - [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Detection Rules Repository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
-- [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
+- [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) and [Sentinel Solutions Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions)- Collection of KQL detection queries for Sentinel.
 - [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [Sigma Rules | The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of sigma rules.
 - [Sigma Rules | mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules.
@@ -37,6 +38,7 @@
 - [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the sophisticated detections found within the Anvilogic Platform Armory.
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
+- [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
 
 ### Attack Samples
 - [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples.
@@ -46,7 +48,7 @@
 
 ### Detection Rule Tests
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework.
-- [Stratus Red Team| DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
+- [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
 - [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
 - [MITRE Caldera](https://caldera.mitre.org/) - Adversary Emulation Framework by MITRE.
 
@@ -84,12 +86,16 @@
 - [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Category](https://www.elastic.co/security-labs/topics/detection-science). Also everything from [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
 - [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson]( (https://specterops.io/blog/?_sf_s=on%20detection)
 - [Detection Engineering Weekly](https://www.detectionengineering.net/)
-- [Detect.fyi](https://detect.fyi/) -  Collection of good detection engineering articles.
-- [Detections.xyz](https://detections.xyz/) - Good detection engineering articles.
+- [Detect.fyi](https://detect.fyi/) - Collection of good detection engineering articles.
+- [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
 - [Detections Digest](https://detections-digest.rulecheck.io/) - A newsletter with many popular detection content sources.
 
 ### Good Reads
 
+
+### Podcasts
+- [Detection Challenging Paradigms | SpecterOps](https://www.dcppodcast.com/all-episodes)
+- [Darknet Diaries](https://darknetdiaries.com/) - Not detection engineering focused but one of my favorites.
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
@@ -110,3 +116,4 @@
 - [@SecurityAura](https://x.com/SecurityAura)
 - [@Oddvarmoe](https://x.com/Oddvarmoe)
 - [@jaredcatkinson](https://x.com/jaredcatkinson)
+- [Awesome Detection List](https://x.com/i/lists/952735755838738432)
