@@ -8,6 +8,7 @@
 - [Attack Samples](#attack-samples) - Attack samples, useful for replying attacks and testing detection logic.
 - [Event Log References](#event-log-references) - Online vendor documentation and references for event logs.
 - [Resources](#resources) - Useful online resources for detection engineers.
+- [Online Tools](#online-tools) - Useful online tools for detection engineers.
 - [Blogs](#Blogs) -  Blogs that regularly release detection engineering related content.
 - [Good Reads](#good-reads) - Good blog posts related to detection engineering.
 - [Books](#books) - Books on detection engineering.
@@ -19,14 +20,12 @@
 - [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Detection Rules Repository](https://github.com/elastic/detection-rules/tree/main/rules)- Elastic's detection rules.
 - [Elastic Security for Endpoint Rules](https://github.com/elastic/protections-artifacts/tree/main)- Elastic's Security for Endpoint detection rules.
 - [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Detection Rules Repository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
-- [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
-- [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
-- [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) - Collection of KQL detection queries for Sentinel.
-- [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the sophisticated detections found within the Anvilogic Platform Armory.
+- [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [Sigma Rules | The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of sigma rules.
 - [Sigma Rules | mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules.
 - [Sigma Rules | Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules.
+- [KQL Queries | SecurityAura](https://github.com/SecurityAura/DE-TH-Aura) - Collection of KQL queries.
 - [KQL Queries for Sentinel | reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries.
 - [KQL Queries | Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of KQL queries.
 - [KQL Queries for DefenderATP | 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of KQL queries.
@@ -35,6 +34,9 @@
 - [Attack Rule Map](https://attackrulemap.com/) - Mapping of open-source detection rules and atomic tests.
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/)and [MITRE CAR Coverage](https://car.mitre.org/coverage/) - The MITRE Cyber Analytics Repository (CAR) is a knowledge base of analytics developed by [MITRE Cyber Analytics Repository (CAR) Coverage Comparison](https://www.mitre.org/) based on the [MITRE ATT&CK](https://attack.mitre.org/) adversary model.
 - [Google Cloud Platform (GCP) Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - Security analytics to monitor cloud activity within Google Cloud.
+- [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the sophisticated detections found within the Anvilogic Platform Armory.
+- [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
+- [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
 
 ### Attack Samples
 - [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples.
@@ -43,8 +45,10 @@
 - [Tool Analysis Results Sheet from jpcertcc](https://jpcertcc.github.io/ToolAnalysisResultSheet) - Results of examining logs recorded in Windows upon execution of 49 tools.
 
 ### Detection Rule Tests
-- [Red Canary's Atomics](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework.
+- [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework.
+- [Stratus Red Team| DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
 - [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
+- [MITRE Caldera](https://caldera.mitre.org/) - Adversary Emulation Framework by MITRE.
 
 ### Logging Configuration Guidelines
 
@@ -61,19 +65,24 @@
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
 - [DeTT&CT](https://github.com/rabobank-cdc/DeTTECT/) - DeTT&CT aims to assist blue teams in using ATT&CK to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviors.
-- [Active Directory Security](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
+- [Active Directory Security (adsecurity.org)](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 - [Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/) - 19 rules for developing detection rules.
 - [Uncoder IO](https://uncoder.io/) - Detection logic query converter.
 - [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework#alerting-and-detection-strategies-framework)- A structured approach to designing and documenting effective detection methodologies.
 - [Detection Engineering Maturity Matrix | Kyle Bailey](https://detectionengineering.io/) - Aims to help the community better measure the capabilities and maturity of their detection function.
 - [Detection Engineering Maturity (DML) Model | Ryan Stillions](https://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html) - A tool for assessing an organization’s detection engineering capabilities and maturity levels.
 - [MaGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) - Methodology for defining and managing threat detection use cases.
-- 
+
+### Online Tools
+ - [Regex101](https://regex101.com/)
+ - [CyberChef](https://gchq.github.io/CyberChef/)
+ - [JSON Formatter](https://jsonformatter.curiousconcept.com/#)
 
 ### Blogs
 - [FalconForce Blog](https://falconforce.nl/blogs/)
 - [Red Canary Blog](https://redcanary.com/blog) and [Red Canary Blog Threat Detection Category](https://redcanary.com/blog/?topic=threat-detection)
 - [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Category](https://www.elastic.co/security-labs/topics/detection-science). Also everything from [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
+- [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson]( (https://specterops.io/blog/?_sf_s=on%20detection)
 - [Detection Engineering Weekly](https://www.detectionengineering.net/)
 - [Detect.fyi](https://detect.fyi/) -  Collection of good detection engineering articles.
 - [Detections.xyz](https://detections.xyz/) - Good detection engineering articles.
@@ -94,8 +103,10 @@
 - [TCM Security Detection Engineering for Beginners](https://academy.tcm-sec.com/p/detection-engineering-for-beginners)
 
 ### Twitter/X
-- [@cyb3rops](https://x.com/cyb3rops)
-- [@SBousseaden](https://x.com/SBousseaden)
-- [@Oddvarmoe](https://x.com/Oddvarmoe)
 - [@sigma_hq](https://x.com/sigma_hq)
-
+- [@cyb3rops](https://x.com/cyb3rops)
+- [@frack113](https://x.com/frack113)
+- [@SBousseaden](https://x.com/SBousseaden)
+- [@SecurityAura](https://x.com/SecurityAura)
+- [@Oddvarmoe](https://x.com/Oddvarmoe)
+- [@jaredcatkinson](https://x.com/jaredcatkinson)
