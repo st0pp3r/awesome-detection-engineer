@@ -11,7 +11,7 @@ human_readable_time = current_time.strftime("%Y-%m-%d %H:%M:%S")
 README_FILE = "README.md"
 
 # Output file
-BOOKMARKS_FILE = "supreme_detection_engineer_bookmarks.html"
+BOOKMARKS_FILE = "bookmarks.html"
 
 def parse_markdown_to_links(markdown_file):
     """Parse the Markdown file and extract links organized by sections."""
