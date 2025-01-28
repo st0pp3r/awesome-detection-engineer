@@ -31,7 +31,7 @@ jobs:
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
-        git add supreme_detection_engineer_bookmarks.html
+        git add bookmarks.html
         git commit -m "Create bookmarks file from README"
         git push https://x-access-token:$GITHUB_TOKEN@github.com/st0pp3r/Supreme-Detection-Engineer.git
       env:
