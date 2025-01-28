@@ -108,6 +108,7 @@
 - [Specter Ops Adversary Tactics: Detection](https://specterops.io/training/adversary-tactics-detection/)
 - [FalconForce Advanced Detection Engineering in the Enterprise training](https://falconforce.nl/services/training/advanced-detection-engineering-training/)
 - [TCM Security Detection Engineering for Beginners](https://academy.tcm-sec.com/p/detection-engineering-for-beginners)
+- [LetsDefend Detection Engineering Path](https://letsdefend.io/detection-engineering)
 
 ### Twitter/X
 - [@sigma_hq](https://x.com/sigma_hq)
