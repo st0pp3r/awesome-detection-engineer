@@ -4,21 +4,24 @@
  Online resources for Detection Engineers. Detection rules, event log references, attack samples and others.
 
 ## Contents
-- [Detection Rules & Detection Logic](#detection-rules-&-dettection-logic) - Online databases with rules, use cases and detection logic.
-- [Attack Samples](#attack-samples) - Attack samples, useful for replying attacks and testing detection logic.
-- [Event Log References](#event-log-references) - Online vendor documentation and references for event logs.
-- [Resources](#resources) - Useful online resources for detection engineers.
-- [Labs](#labs) - Useful online tools for detection engineers.
-- [Online Tools](#online-tools) - Useful online tools for detection engineers.
-- [Blogs](#Blogs) -  Blogs that regularly release detection engineering related content.
-- [Newsletters](#Newsletters) -  Newsletters with updates on detection engineering.
-- [Good Reads](#good-reads) - Good blog posts related to detection engineering.
-- [Books](#books) - Books on detection engineering.
-- [Trainings](#trainings) - Available trainings related to detection engineering.
-- [Podcasts](#podcasts) - Podcasts focused on detection engineering.
-- [Twitter/X](#twitter/X) - Relevant Twitter/X accounts.
+- [Detection Rules](#detection-rules) - Online databases with detection rules.
+- [Detection Logic](#detection-logic) - Resources on detection logic. 
+- [Attack Samples](#attack-samples) - Attack samples, useful for replaying attacks and testing detection logic. 
+- [Detection Tests & Emulation Tools](#detection-tests--emulation-tools) - Tools and tests for testing detection logic and emulating attacks. 
+- [Logging Configuration & Best Practices](#logging-configuration--best-practices) - Guidelines on configuring and optimizing logging. 
+- [Event Log References](#event-log-references) - Online vendor documentation and references for event logs. 
+- [Resources](#resources) - Useful online resources for detection engineers. 
+- [Labs](#labs) - Online labs for detection engineers. 
+- [Online Tools](#online-tools) - Useful online tools for detection engineers day-to-day. 
+- [Blogs](#blogs) - Blogs that regularly release detection engineering-related content. 
+- [Newsletters](#newsletters) - Newsletters with updates on detection engineering. 
+- [Good Reads](#good-reads) - Noteworthy blog posts related to detection engineering. 
+- [Books](#books) - Books on detection engineering. 
+- [Trainings](#trainings) - Available trainings focused on detection engineering. 
+- [Podcasts](#podcasts) - Podcasts focused on detection engineering. 
+- [Twitter/X](#twitterx) - Relevant Twitter/X accounts.
 
-### Detection Rules & Detection Logic
+### Detection Rules
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Huge collection of detection rules from SIGMA HQ.
 - [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Rules GitHub Repository](https://github.com/elastic/detection-rules/tree/main/rules)- Elastic's detection rules.
 - [Elastic Security for Endpoint Rules](https://github.com/elastic/protections-artifacts/tree/main)- Elastic's Security for Endpoint detection rules.
@@ -40,9 +43,11 @@
 - [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the sophisticated detections found within the Anvilogic Platform Armory.
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
-- [LOLOL Farm](https://lolol.farm/) - A great collection of resources to thrive off the land.
+
+### Detection Logic
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
 - [Antivirus Cheatsheet | Nextron Systems](https://www.nextron-systems.com/?s=antivirus)
+- [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf)
 
 ### Attack Samples
 - [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples.
@@ -56,7 +61,7 @@
 - [Attack Data | Splunk](https://github.com/splunk/attack_data) A Repository of curated datasets from various attacks
 - [Secrepo](https://secrepo.com/) - Samples of various types of Security related data.
 
-### Detection Rule Tests & Attack Tools
+### Detection Tests & Emulation Tools
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the MITRE ATT&CK framework.
 - [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
 - [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
@@ -83,6 +88,10 @@
 - [Palo Alto PAN-OS Log Fields](https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-admin/monitoring/use-syslog-for-monitoring/syslog-field-descriptions)
 - [FortiGate FortiOS Log Types and Subtypes](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/160372/list-of-log-types-and-subtypes) and [FortiGate FortiOS Log Fields](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/357866/log-message-fields)
 - [Microsoft Defender Event IDs](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus)
+- [Microsoft Defender for Cloud Alert References](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
+- [Microsoft Defender XDR Schemas](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables)
+- [GCP Threat Detection Findings](https://cloud.google.com/security-command-center/docs/concepts-security-sources#threats)
+- [GuardDuty Finding Types](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html)
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
@@ -95,6 +104,7 @@
 - [Detection Engineering Maturity (DML) Model | Ryan Stillions](https://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html) - A tool for assessing an organization’s detection engineering capabilities and maturity levels.
 - [MaGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) - Methodology for defining and managing threat detection use cases.
 - [Detection Engineering Cheatsheet | Florian Roth](https://x.com/cyb3rops/status/1592879894396293121) - Chee sheet for prioritizing detection development. 
+- [Microsoft Azure Security Control Mappings to MITRE ATT&CK](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html)
 
 ### Labs
  - [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
