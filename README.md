@@ -55,11 +55,11 @@
 - [Security Datasets](https://github.com/OTRF/Security-Datasets/tree/master/datasets) - Datasets of malicious and benign indicators, from different platforms.
 - [Tool Analysis Results Sheet | jpcertcc](https://jpcertcc.github.io/ToolAnalysisResultSheet) - Results of examining logs recorded in Windows upon execution of 49 tools.
 - [Mordor Dataset](https://github.com/UraSecTeam/mordor) - Pre-recorded security events generated after simulating adversarial techniques.
+- [Attack Data | Splunk](https://github.com/splunk/attack_data) A Repository of curated datasets from various attacks
+- [Secrepo](https://secrepo.com/) - Samples of various types of Security related data.
 - [PCAP-ATTACK | sbousseaden](https://github.com/sbousseaden/PCAP-ATTACK) - Container of PCAP captures mapped to the relevant attack tactic.
 - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) - A site for sharing packet capture (pcap) files and malware samples.
 - [NetreSec PCAPs](https://www.netresec.com/?page=PcapFiles) - This is a list of public packet capture ([PCAP](https://netresec.com/?b=22A1c18)) repositories, which are freely available on the Internet.
-- [Attack Data | Splunk](https://github.com/splunk/attack_data) A Repository of curated datasets from various attacks
-- [Secrepo](https://secrepo.com/) - Samples of various types of Security related data.
 
 ### Detection Tests & Emulation Tools
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the MITRE ATT&CK framework.
@@ -140,7 +140,6 @@
 - [DeTT&CT: Mapping your Blue Team to MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
 - [Distributed Security Alerting](https://slack.engineering/distributed-security-alerting/)
 - [Deploying Detections at Scale — Part 0x01 use-case format and automated validation | Gijs Hollestelle](https://medium.com/falconforce/deploying-detections-at-scale-part-0x01-use-case-format-and-automated-validation-7bc76bea0f43)
-- [From soup to nuts: Building a Detection-as-Code pipeline](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38)
 - [From soup to nuts: Building a Detection-as-Code pipeline](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38)
 - [Can We Have “Detection as Code”? | Anton Chuvakin](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79)
 - [Automating Detection-as-Code | John Tuckner](https://www.tines.com/blog/automating-detection-as-code/)
