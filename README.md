@@ -10,6 +10,7 @@
 - [Resources](#resources) - Useful online resources for detection engineers.
 - [Online Tools](#online-tools) - Useful online tools for detection engineers.
 - [Blogs](#Blogs) -  Blogs that regularly release detection engineering related content.
+- [Newsletters](#Newsletters) -  Newsletters with updates on detection engineering.
 - [Good Reads](#good-reads) - Good blog posts related to detection engineering.
 - [Podcasts](#podcasts) - Podcasts focused on detection engineering.
 - [Books](#books) - Books on detection engineering.
@@ -38,7 +39,8 @@
 - [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the sophisticated detections found within the Anvilogic Platform Armory.
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
-- [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
+- [LOLOL Farm](https://lolol.farm/) - A great collection of resources to thrive off the land.
+- [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
 
 ### Attack Samples
 - [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples.
@@ -51,9 +53,17 @@
 - [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
 - [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
 - [MITRE Caldera](https://caldera.mitre.org/) - Adversary Emulation Framework by MITRE.
+- [Active Directory Attack Tests | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack tests.
 
-### Logging Configuration Guidelines
-
+### Logging Configuration Guidelines and Best Practices
+- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
+- [Microsoft Monitoring Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/monitoring-active-directory-for-signs-of-compromise)
+- [Microsoft Windows Audit Policy Recommendations](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations)
+- [Malware Archaeology Cheatsheets for Windows](https://www.malwarearchaeology.com/cheat-sheets)
+- [Auditd Logging Configuration | Neo23x0](https://github.com/Neo23x0/auditd/blob/master/audit.rules)
+- [Sysmon Configuration | SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
+- [Sysmon Configuration | Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
+ 
 ### Event Log References
 - [Windows Event IDs and Audit Policies](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings)
 - [Windows Security Log Event IDs Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
@@ -85,9 +95,11 @@
 - [Red Canary Blog](https://redcanary.com/blog) and [Red Canary Blog Threat Detection Category](https://redcanary.com/blog/?topic=threat-detection)
 - [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Category](https://www.elastic.co/security-labs/topics/detection-science). Also everything [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
 - [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson](https://specterops.io/blog/?_sf_s=on%20detection)
-- [Detection Engineering Weekly](https://www.detectionengineering.net/)
 - [Detect.fyi](https://detect.fyi/) - Collection of good detection engineering articles.
 - [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
+
+### Newsletters
+- [Detection Engineering Weekly](https://www.detectionengineering.net/)
 - [Detections Digest](https://detections-digest.rulecheck.io/) - A newsletter with many popular detection content sources.
 
 ### Good Reads
@@ -96,6 +108,7 @@
 ### Podcasts
 - [Detection Challenging Paradigms | SpecterOps](https://www.dcppodcast.com/all-episodes)
 - [Darknet Diaries](https://darknetdiaries.com/) - Not detection engineering focused but one of my favorites.
+- [Detection at Scale](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
