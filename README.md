@@ -7,8 +7,8 @@
 - [Detection Rules](#detection-rules) - Online databases with detection rules.
 - [Detection Logic](#detection-logic) - Resources on detection logic. 
 - [Attack Samples](#attack-samples) - Attack samples, useful for replaying attacks and testing detection logic. 
-- [Detection Tests & Emulation Tools](#detection-tests-&-emulation-tools) - Tools and tests for testing detection logic and emulating attacks. 
-- [Logging Configuration & Best Practices](#logging-configuration-&-best-practices) - Guidelines on configuring and optimizing logging. 
+- [Detection Tests and Emulation Tools](#detection-tests-and-emulation-tools) - Tools and tests for testing detection logic and emulating attacks. 
+- [Logging Configuration and Best Practices](#logging-configuration-and-best-practices) - Guidelines on configuring and optimizing logging. 
 - [Event Log References](#event-log-references) - Online vendor documentation and references for event logs. 
 - [Resources](#resources) - Useful online resources for detection engineers. 
 - [Labs](#labs) - Online labs for detection engineers. 
@@ -61,7 +61,7 @@
 - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) - A site for sharing packet capture (pcap) files and malware samples.
 - [NetreSec PCAPs](https://www.netresec.com/?page=PcapFiles) - This is a list of public packet capture ([PCAP](https://netresec.com/?b=22A1c18)) repositories, which are freely available on the Internet.
 
-### Detection Tests & Emulation Tools
+### Detection Tests and Emulation Tools
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the MITRE ATT&CK framework.
 - [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
 - [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
