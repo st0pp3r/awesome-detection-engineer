@@ -134,7 +134,7 @@
 - [Detection Development Lifecycle | Haider Dost](https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc)
 - [Elastic releases the Detection Engineering Behavior Maturity Model](https://www.elastic.co/security-labs/elastic-releases-debmm)
 - [Threat Detection Maturity Framework | Haider Dost](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc)
-- [Compound Probability: You Don’t Need 100% Coverage to Win](https://medium.com/@vanvleet/compound-probability-you-dont-need-100-coverage-to-win-a2e650da21a4]
+- [Compound Probability: You Don’t Need 100% Coverage to Win](https://medium.com/@vanvleet/compound-probability-you-dont-need-100-coverage-to-win-a2e650da21a4)
 - [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051)
 - [DeTT&CT : Mapping detection to MITRE ATT&CK | Renaud Frère](https://blog.nviso.eu/2022/03/09/dettct-mapping-detection-to-mitre-attck/)
 - [DeTT&CT: Mapping your Blue Team to MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
