@@ -71,7 +71,7 @@
 - [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 - [Infection Monkey](https://github.com/guardicore/monkey#infection-monkey) - Open-source adversary emulation platform.
 
-### Logging Configuration Guidelines and Best Practices
+### Logging Configuration and Best Practices
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 - [Microsoft Monitoring Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/monitoring-active-directory-for-signs-of-compromise)
 - [Microsoft Windows Audit Policy Recommendations](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations)
