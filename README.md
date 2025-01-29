@@ -7,8 +7,8 @@
 - [Detection Rules](#detection-rules) - Online databases with detection rules.
 - [Detection Logic](#detection-logic) - Resources on detection logic. 
 - [Attack Samples](#attack-samples) - Attack samples, useful for replaying attacks and testing detection logic. 
-- [Detection Tests & Emulation Tools](#detection-tests--emulation-tools) - Tools and tests for testing detection logic and emulating attacks. 
-- [Logging Configuration & Best Practices](#logging-configuration--best-practices) - Guidelines on configuring and optimizing logging. 
+- [Detection Tests and Emulation Tools](#detection-tests-and-emulation-tools) - Tools and tests for testing detection logic and emulating attacks. 
+- [Logging Configuration and Best Practices](#logging-configuration-and-best-practices) - Guidelines on configuring and optimizing logging. 
 - [Event Log References](#event-log-references) - Online vendor documentation and references for event logs. 
 - [Resources](#resources) - Useful online resources for detection engineers. 
 - [Labs](#labs) - Online labs for detection engineers. 
@@ -61,7 +61,7 @@
 - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) - A site for sharing packet capture (pcap) files and malware samples.
 - [NetreSec PCAPs](https://www.netresec.com/?page=PcapFiles) - This is a list of public packet capture ([PCAP](https://netresec.com/?b=22A1c18)) repositories, which are freely available on the Internet.
 
-### Detection Tests & Emulation Tools
+### Detection Tests and Emulation Tools
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the MITRE ATT&CK framework.
 - [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
 - [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
@@ -71,7 +71,7 @@
 - [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 - [Infection Monkey](https://github.com/guardicore/monkey#infection-monkey) - Open-source adversary emulation platform.
 
-### Logging Configuration Guidelines and Best Practices
+### Logging Configuration and Best Practices
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 - [Microsoft Monitoring Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/monitoring-active-directory-for-signs-of-compromise)
 - [Microsoft Windows Audit Policy Recommendations](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations)
@@ -124,6 +124,7 @@
 - [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson](https://specterops.io/blog/?_sf_s=on%20detection)
 - [Detect.fyi](https://detect.fyi/) - Collection of good detection engineering articles.
 - [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
+- [Alex Teixeira on Medium](https://ateixei.medium.com/)
 
 ### Newsletters
 - [Detection Engineering Weekly](https://www.detectionengineering.net/)
@@ -134,7 +135,7 @@
 - [Detection Development Lifecycle | Haider Dost](https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc)
 - [Elastic releases the Detection Engineering Behavior Maturity Model](https://www.elastic.co/security-labs/elastic-releases-debmm)
 - [Threat Detection Maturity Framework | Haider Dost](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc)
-- [Compound Probability: You Don’t Need 100% Coverage to Win](https://medium.com/@vanvleet/compound-probability-you-dont-need-100-coverage-to-win-a2e650da21a4]
+- [Compound Probability: You Don’t Need 100% Coverage to Win](https://medium.com/@vanvleet/compound-probability-you-dont-need-100-coverage-to-win-a2e650da21a4)
 - [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051)
 - [DeTT&CT : Mapping detection to MITRE ATT&CK | Renaud Frère](https://blog.nviso.eu/2022/03/09/dettct-mapping-detection-to-mitre-attck/)
 - [DeTT&CT: Mapping your Blue Team to MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
@@ -143,6 +144,7 @@
 - [From soup to nuts: Building a Detection-as-Code pipeline](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38)
 - [Can We Have “Detection as Code”? | Anton Chuvakin](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79)
 - [Automating Detection-as-Code | John Tuckner](https://www.tines.com/blog/automating-detection-as-code/)
+- [How to prioritize a Detection Backlog? | Alex Teixeira](https://detect.fyi/how-to-prioritize-a-detection-backlog-84a16d4cc7ae)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
