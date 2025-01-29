@@ -47,7 +47,7 @@ def create_bookmark_html(links_by_section, title):
         f"<TITLE>{escape(title)}</TITLE>",
         "<H1>{escape(title)}</H1>",
         "<DL><p>",
-        "  <DT><H3>Supreme Detection Engineer</H3>",
+        "  <DT><H3>Awesome Detection Engineer</H3>",
         "  <DL><p>"
     ]
 
