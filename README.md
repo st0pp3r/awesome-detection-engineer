@@ -1,5 +1,5 @@
-# Supreme Detection Engineer 
-[![URL Check](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml)
+# Awesome Detection Engineer 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![URL Check](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml)
 
  Online resources for Detection Engineers. Detection rules, event log references, attack samples and others. The repo generates a bookmark file for importing to your browser.
 
@@ -31,6 +31,7 @@
 - [Sigma Rules | The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of sigma rules.
 - [Sigma Rules | mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules.
 - [Sigma Rules | Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules.
+- [Sigma Rules Threat Hunting Keywords | mthcht](https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules/tree/main/sigma_rules/offensive_tools) - Collection of sigma rules.
 - [KQL Queries | SecurityAura](https://github.com/SecurityAura/DE-TH-Aura) - Collection of KQL queries.
 - [KQL Queries for Sentinel | reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries.
 - [KQL Queries | Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of KQL queries.
@@ -106,6 +107,7 @@
 - [MaGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) - Methodology for defining and managing threat detection use cases.
 - [Detection Engineering Cheatsheet | Florian Roth](https://x.com/cyb3rops/status/1592879894396293121) - Chee sheet for prioritizing detection development. 
 - [Microsoft Azure Security Control Mappings to MITRE ATT&CK](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html)
+- [Detection practices | ncsc](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/detection/detection-practices)
 
 ### Labs
  - [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
