@@ -7,8 +7,8 @@
 - [Detection Rules](#detection-rules) - Online databases with detection rules.
 - [Detection Logic](#detection-logic) - Resources on detection logic. 
 - [Attack Samples](#attack-samples) - Attack samples, useful for replaying attacks and testing detection logic. 
-- [Detection Tests & Emulation Tools](#detection-tests--emulation-tools) - Tools and tests for testing detection logic and emulating attacks. 
-- [Logging Configuration & Best Practices](#logging-configuration--best-practices) - Guidelines on configuring and optimizing logging. 
+- [Detection Tests & Emulation Tools](#detection-tests-&-emulation-tools) - Tools and tests for testing detection logic and emulating attacks. 
+- [Logging Configuration & Best Practices](#logging-configuration-&-best-practices) - Guidelines on configuring and optimizing logging. 
 - [Event Log References](#event-log-references) - Online vendor documentation and references for event logs. 
 - [Resources](#resources) - Useful online resources for detection engineers. 
 - [Labs](#labs) - Online labs for detection engineers. 
