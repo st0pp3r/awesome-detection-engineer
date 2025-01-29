@@ -23,7 +23,7 @@ Thank you for your interest in contributing to this awesome list! We welcome con
 
 ## Code of Conduct
 
-All contributors must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+All contributors must adhere to our [Code of Conduct](code-of-conduct.md).
 
 ## Questions?
 
