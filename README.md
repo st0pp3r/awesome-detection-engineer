@@ -2,6 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![URL Check](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml)
 
 Online resources for Detection Engineers. Detection rules, event log references, attack samples and others. The repo generates a bookmark file for easy import to your browser.
+I will mostly include resources that are tailored as much as possible to the role of the detection engineer and not the field of cyber security in general.
 
 ## Contents
 - [Detection Rules](#detection-rules) - Online databases with detection rules.
