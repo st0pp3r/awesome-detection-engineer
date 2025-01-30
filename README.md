@@ -1,7 +1,7 @@
 # Awesome Detection Engineer 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![URL Check](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml)
 
- Online resources for Detection Engineers. Detection rules, event log references, attack samples and others. The repo generates a bookmark file for importing to your browser.
+Online resources for Detection Engineers. Detection rules, event log references, attack samples and others. The repo generates a bookmark file for easy import to your browser.
 
 ## Contents
 - [Detection Rules](#detection-rules) - Online databases with detection rules.
@@ -65,6 +65,7 @@
 ### Detection Tests and Emulation Tools
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the MITRE ATT&CK framework.
 - [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
+- [LOLBAS Project](https://lolbas-project.github.io/) - Binaries, scripts, and libraries that can be used for Living Off The Land techniques.
 - [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
 - [MITRE Caldera](https://caldera.mitre.org/) - Adversary Emulation Framework by MITRE.
 - [Active Directory Attack Tests | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack tests.
