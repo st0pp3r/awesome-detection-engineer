@@ -131,7 +131,7 @@ Online resources for Detection Engineers. Detection rules, event log references,
 
 ### Newsletters
 - [Detection Engineering Weekly](https://www.detectionengineering.net/)
-- [Detections Digest](https://detections-digest.rulecheck.io/) - A newsletter with many popular detection content sources.
+- [Detections Digest](https://detections-digest.rulecheck.io/) - A newsletter with many popular detection content sources..
 
 ### Good Reads
 - [About Detection Engineering | Florian Roth](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0)
