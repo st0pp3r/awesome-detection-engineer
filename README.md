@@ -93,7 +93,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Palo Alto PAN-OS Applications](https://applipedia.paloaltonetworks.com/)
 - [FortiGate FortiOS Log Types and Subtypes](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/160372/list-of-log-types-and-subtypes)
 - [FortiGate FortiOS Log Fields](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/357866/log-message-fields)
-- [FortiGate FortiGuard Encyclopedia]([https://www.fortiguard.com/encyclopedia?type=ips](https://www.fortiguard.com/encyclopedia?type=ips))
+- [FortiGate FortiGuard Encyclopedia]([https://www.fortiguard.com/encyclopedia?type=ips](https://www.fortiguard.com/encyclopedia?type=ips)
 - [Microsoft Defender Event IDs](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus)
 - [Microsoft Defender for Cloud Alert References](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
 - [Microsoft Defender for Identity Alert References](https://learn.microsoft.com/en-us/defender-for-identity/alerts-overview)
