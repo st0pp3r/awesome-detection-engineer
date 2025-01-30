@@ -26,7 +26,7 @@ def parse_markdown_to_links(markdown_file):
         if line.startswith("#"):
             # Extract section title from Markdown headers
             current_section = line.lstrip("# ").strip()
-            if not(current_section.startswith("Supreme Detection Engineer")) and current_section not in ["Contents"]:
+            if not(current_section.startswith("Awesome Detection Engineer")) and current_section not in ["Contents"]:
                 links_by_section[current_section] = []
         elif line.startswith("- [") and "](http" in line:
             # Extract Markdown link format: [name](url)
