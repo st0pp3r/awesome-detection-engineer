@@ -59,9 +59,9 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Mordor Dataset](https://github.com/UraSecTeam/mordor) - Pre-recorded security events generated after simulating adversarial techniques.
 - [Attack Data | Splunk](https://github.com/splunk/attack_data) A Repository of curated datasets from various attacks
 - [Secrepo](https://secrepo.com/) - Samples of various types of Security related data.
-- [PCAP-ATTACK | sbousseaden](https://github.com/sbousseaden/PCAP-ATTACK) - Container of PCAP captures mapped to the relevant attack tactic.
+- [PCAP-ATTACK | sbousseaden](https://github.com/sbousseaden/PCAP-ATTACK) - PCAP captures mapped to the relevant attack tactic.
 - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) - A site for sharing packet capture (pcap) files and malware samples.
-- [NetreSec PCAPs](https://www.netresec.com/?page=PcapFiles) - This is a list of public packet capture ([PCAP](https://netresec.com/?b=22A1c18)) repositories, which are freely available on the Internet.
+- [NetreSec PCAPs](https://www.netresec.com/?page=PcapFiles) - List of public packet capture repositories.
 
 ### Detection Tests and Emulation Tools
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the MITRE ATT&CK framework.
