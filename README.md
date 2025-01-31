@@ -73,6 +73,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Network Flight Simulator](https://github.com/alphasoc/flightsim#network-flight-simulator) - lightweight utility used to generate malicious network traffic.
 - [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 - [Infection Monkey](https://github.com/guardicore/monkey#infection-monkey) - Open-source adversary emulation platform.
+- [rtt.secdude.de/](https://rtt.secdude.de/) - Nice page that includes commands mapped to MITRE ATT&CK.
 
 ### Logging Configuration and Best Practices
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
