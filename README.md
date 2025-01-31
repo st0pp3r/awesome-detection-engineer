@@ -157,6 +157,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Can We Have “Detection as Code”? | Anton Chuvakin](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79)
 - [Automating Detection-as-Code | John Tuckner](https://www.tines.com/blog/automating-detection-as-code/)
 - [How to prioritize a Detection Backlog? | Alex Teixeira](https://detect.fyi/how-to-prioritize-a-detection-backlog-84a16d4cc7ae)
+- [Atomic and Stateful Detection Rules](https://blog.ecapuano.com/p/atomic-and-stateful-detection-rules)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
