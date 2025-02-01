@@ -199,7 +199,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Detection at Scale](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270)
 
 ### Videos
-[Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams)
+- [Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams)
 
 ### Twitter/X
 - [@sigma_hq](https://x.com/sigma_hq)
