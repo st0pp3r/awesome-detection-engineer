@@ -6,20 +6,21 @@ I will mostly include resources that are tailored as much as possible to the rol
 
 ## Contents
 - [Detection Rules](#detection-rules) - Online databases with detection rules.
-- [Detection Logic](#detection-logic) - Resources on detection logic. 
-- [Attack Samples](#attack-samples) - Attack samples, useful for replaying attacks and testing detection logic. 
-- [Detection Tests and Emulation Tools](#detection-tests-and-emulation-tools) - Tools and tests for testing detection logic and emulating attacks. 
-- [Logging Configuration and Best Practices](#logging-configuration-and-best-practices) - Guidelines on configuring and optimizing logging. 
-- [Event Log References](#event-log-references) - Online vendor documentation and references for event logs. 
-- [Resources](#resources) - Useful online resources for detection engineers. 
-- [Labs](#labs) - Online labs for detection engineers. 
-- [Online Tools](#online-tools) - Useful online tools for detection engineers day-to-day. 
-- [Blogs](#blogs) - Blogs that regularly release detection engineering-related content. 
-- [Newsletters](#newsletters) - Newsletters with updates on detection engineering. 
-- [Good Reads](#good-reads) - Noteworthy blog posts related to detection engineering. 
-- [Books](#books) - Books on detection engineering. 
-- [Trainings](#trainings) - Available trainings focused on detection engineering. 
-- [Podcasts](#podcasts) - Podcasts focused on detection engineering. 
+- [Detection Logic](#detection-logic) - Resources on detection logic.
+- [Attack Samples](#attack-samples) - Attack samples, useful for replaying attacks and testing detection logic.
+- [Detection Tests and Emulation Tools](#detection-tests-and-emulation-tools) - Tools and tests for testing detection logic and emulating attacks.
+- [Logging Configuration and Best Practices](#logging-configuration-and-best-practices) - Guidelines on configuring and optimizing logging.
+- [Event Log References](#event-log-references) - Online vendor documentation and references for event logs.
+- [Resources](#resources) - Useful online resources for detection engineers.
+- [Labs](#labs) - Online labs for detection engineers.
+- [Data Manipulation Online Tools](#data-manipulation-online-tools) - Useful online tools for detection engineers day-to-day.
+- [Blogs](#blogs) - Blogs that regularly release detection engineering-related content.
+- [Newsletters](#newsletters) - Newsletters with updates on detection engineering.
+- [Good Reads](#good-reads) - Noteworthy blog posts related to detection engineering.
+- [Books](#books) - Books on detection engineering.
+- [Trainings](#trainings) - Available trainings focused on detection engineering.
+- [Podcasts](#podcasts) - Podcasts focused on detection engineering.
+- [Videos](#videos) - Videos focused on detection engineering.
 - [Twitter/X](#twitterx) - Relevant Twitter/X accounts.
 
 ### Detection Rules
@@ -32,6 +33,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Sigma Rules | The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of sigma rules.
 - [Sigma Rules | mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules.
 - [Sigma Rules | Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules.
+- [Sigma Rules | tsale](https://github.com/tsale/Sigma_rules/tree/main) - Collection of sigma rules.
+- [Sigma Rules | JoeSecurity](https://github.com/joesecurity/sigma-rules/tree/master/rules)
 - [Sigma Rules Threat Hunting Keywords | mthcht](https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules/tree/main/sigma_rules/offensive_tools) - Collection of sigma rules.
 - [KQL Queries | SecurityAura](https://github.com/SecurityAura/DE-TH-Aura) - Collection of KQL queries.
 - [KQL Queries for Sentinel | reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries.
@@ -50,6 +53,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
 - [Antivirus Cheatsheet | Nextron Systems](https://www.nextron-systems.com/?s=antivirus)
 - [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf)
+- [Awesome Lists | mthcht](https://github.com/mthcht/awesome-lists/tree/main/Lists) - Includes keywords, paths from various tools that can be used to implement detection logic.
 
 ### Attack Samples
 - [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples.
@@ -82,6 +86,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Auditd Logging Configuration | Neo23x0](https://github.com/Neo23x0/auditd/blob/master/audit.rules)
 - [Sysmon Configuration | SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
 - [Sysmon Configuration | Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
+- [KQL Query for Validating your Windows Audit Policy](https://blog.nviso.eu/2024/09/05/validate-your-windows-audit-policy-configuration-with-kql/)
  
 ### Event Log References
 - [Windows Event IDs and Audit Policies](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings)
@@ -93,7 +98,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Palo Alto PAN-OS Applications](https://applipedia.paloaltonetworks.com/)
 - [FortiGate FortiOS Log Types and Subtypes](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/160372/list-of-log-types-and-subtypes)
 - [FortiGate FortiOS Log Fields](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/357866/log-message-fields)
-- [FortiGate FortiGuard Encyclopedia]([https://www.fortiguard.com/encyclopedia?type=ips](https://www.fortiguard.com/encyclopedia?type=ips)
+- [FortiGate FortiGuard Encyclopedia](https://www.fortiguard.com/encyclopedia?type=ips)
 - [Microsoft Defender Event IDs](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus)
 - [Microsoft Defender for Cloud Alert References](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
 - [Microsoft Defender for Identity Alert References](https://learn.microsoft.com/en-us/defender-for-identity/alerts-overview)
@@ -107,6 +112,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
 - [DeTT&CT](https://github.com/rabobank-cdc/DeTTECT/) - DeTT&CT aims to assist blue teams in using ATT&CK to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviors.
+- [MITRE D3fend](https://d3fend.mitre.org/) - A knowledge of cybersecurity countermeasures.
 - [Active Directory Security (adsecurity.org)](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 - [Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/) - 19 rules for developing detection rules.
 - [Uncoder IO](https://uncoder.io/) - Detection logic query converter.
@@ -116,17 +122,31 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [MaGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) - Methodology for defining and managing threat detection use cases.
 - [Detection Engineering Cheatsheet | Florian Roth](https://x.com/cyb3rops/status/1592879894396293121) - Chee sheet for prioritizing detection development. 
 - [Microsoft Azure Security Control Mappings to MITRE ATT&CK](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html)
-- [Detection practices | ncsc](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/detection/detection-practices)
+- [Detection Practices | ncsc](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/detection/detection-practices)
+- [EDR Telemetry | tsale](https://github.com/tsale/EDR-Telemetry/tree/main) - Telemetry comparison and telemetry generator for different EDRs.
+- [Threat Intel Reports](https://mthcht.github.io/ThreatIntel-Reports/) - Threat Intel reports to be used as inspiration for use case creation.
 
 ### Labs
  - [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
  - [Splunk Attack Range](https://github.com/splunk/attack_range)
  - [Detection LAB](https://github.com/clong/DetectionLab/) - Deprecated
+ - [Constructing Defense](https://course.constructingdefense.com/constructing-defense)
  
-### Online Tools
- - [Regex101](https://regex101.com/)
- - [CyberChef](https://gchq.github.io/CyberChef/)
- - [JSON Formatter](https://jsonformatter.curiousconcept.com/#)
+### Data Manipulation Online Tools
+ - [Regex101](https://regex101.com/) - Regex testing.
+ - [Regexr](https://regexr.com/) - Regex testing.
+ - [CyberChef](https://gchq.github.io/CyberChef/) - Multiple data manipulation tools, decoders, decryptors.
+ - [JSON Formatter](https://jsonformatter.curiousconcept.com/#) - JSON Beautifier.
+ - [JSONCrack](https://jsoncrack.com/editor) - JSON, YML, CSV, XML Editor.
+ - [Grok Debugger](https://grokdebugger.com/) - Text manipulation.
+ - [Text Mechanic](https://textmechanic.com/) - Text manipulation.
+ - [Text Fixer](https://www.textfixer.com/) - Text manipulation.
+ - [Hash Calculator](https://md5calc.com/hash) - Hash calculator and other tools.
+ - [Free Formatter](https://www.freeformatter.com/xml-formatter.html) - Formatter for XML, JSON, HTML.
+ - [HTML Formatter](https://htmlformatter.com/) - Formatter for HTML.
+ - [Diff Checker](https://www.diffchecker.com/) - Diff comparison.
+ - [CSVJSON](https://csvjson.com/csv2json) - CSV to JSON converter and vice versa.
+ - [ChatGPT](https://chatgpt.com/) - Can be used to transform data.
 
 ### Blogs
 - [FalconForce Blog](https://falconforce.nl/blogs/)
@@ -156,6 +176,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Can We Have “Detection as Code”? | Anton Chuvakin](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79)
 - [Automating Detection-as-Code | John Tuckner](https://www.tines.com/blog/automating-detection-as-code/)
 - [How to prioritize a Detection Backlog? | Alex Teixeira](https://detect.fyi/how-to-prioritize-a-detection-backlog-84a16d4cc7ae)
+- [Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
@@ -174,6 +195,9 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Detection Challenging Paradigms | SpecterOps](https://www.dcppodcast.com/all-episodes)
 - [Darknet Diaries](https://darknetdiaries.com/) - Not detection engineering focused but one of my favorites.
 - [Detection at Scale](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270)
+
+### Videos
+[Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams)
 
 ### Twitter/X
 - [@sigma_hq](https://x.com/sigma_hq)
