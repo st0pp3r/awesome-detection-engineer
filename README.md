@@ -48,6 +48,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the sophisticated detections found within the Anvilogic Platform Armory.
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
+- [LogPoint Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/index.html) - LogPoint's Alert Rules.
+- [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) - Wazuh ruleset repository.
 
 ### Detection Logic
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
@@ -149,6 +151,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Detection Practices | ncsc](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/detection/detection-practices)
 - [EDR Telemetry | tsale](https://github.com/tsale/EDR-Telemetry/tree/main) - Telemetry comparison and telemetry generator for different EDRs.
 - [Threat Intel Reports](https://mthcht.github.io/ThreatIntel-Reports/) - Threat Intel reports to be used as inspiration for use case creation.
+- [xCyclopedia](https://github.com/strontic/xcyclopedia) - The xCyclopedia project attempts to document all executable binaries (and eventually scripts) that reside on a typical operating system.
 
 ### Labs
  - [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
