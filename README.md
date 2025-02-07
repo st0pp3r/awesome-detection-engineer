@@ -49,7 +49,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
 - [LogPoint Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/index.html) - LogPoint's Alert Rules.
-- [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) - Wazuh ruleset repository.
+- [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset/rules) - Wazuh ruleset repository.
 
 ### Detection Logic
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
