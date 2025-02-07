@@ -29,6 +29,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Elastic Security for Endpoint Rules](https://github.com/elastic/protections-artifacts/tree/main)- Elastic's Security for Endpoint detection rules.
 - [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Rules GitHub Repository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) and [Sentinel Solution Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions)- Collection of KQL detection queries for Sentinel.
+- [Panther Detections](https://panther.com/product/detection-coverage) - Collection of detection rules by Panther.
+- [Datadog Detections](https://docs.datadoghq.com/security/default_rules/#all) - Collection of detection rules by Datadog.
 - [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [Sigma Rules | The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of sigma rules.
 - [Sigma Rules | mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules.
@@ -36,12 +38,17 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Sigma Rules | tsale](https://github.com/tsale/Sigma_rules/tree/main) - Collection of sigma rules.
 - [Sigma Rules | JoeSecurity](https://github.com/joesecurity/sigma-rules/tree/master/rules)
 - [Sigma Rules Threat Hunting Keywords | mthcht](https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules/tree/main/sigma_rules/offensive_tools) - Collection of sigma rules.
+- [Sigma Rules | mbabinski](https://github.com/mbabinski/Sigma-Rules/tree/main) - Collection of sigma rules.
+- [Sigma Rules | Inovasys-CS](https://github.com/Inovasys-CS/EDI/tree/main) - Collection of sigma rules.
+- [KQL Queries | FalconForce](https://github.com/FalconForceTeam/FalconFriday/tree/master) - Collection of KQL queries.
 - [KQL Queries | SecurityAura](https://github.com/SecurityAura/DE-TH-Aura) - Collection of KQL queries.
 - [KQL Queries for Sentinel | reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries.
 - [KQL Queries | Cyb3r Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main) - Collection of KQL queries.
 - [KQL Queries for DefenderATP | 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of KQL queries.
 - [KQL Queries | Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of KQL queries.
+- [KQL Queries | SlimKQL](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules) - Collection of KQL queries.
 - [KQL Search](https://www.kqlsearch.com/) - Collection of KQL queries from various GitHub repositories.
+- [DetectionCode](https://detectioncode.com/) - Detection rules search engine.
 - [Attack Rule Map](https://attackrulemap.com/) - Mapping of open-source detection rules and atomic tests.
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/) and [MITRE Cyber Analytics Repository (CAR) Coverage Comparison](https://car.mitre.org/coverage/) - The MITRE Cyber Analytics Repository (CAR) is a knowledge base of analytics based on the MITRE ATT&CK framework.
 - [Google Cloud Platform (GCP) Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - Security analytics to monitor cloud activity within Google Cloud.
