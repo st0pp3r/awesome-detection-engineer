@@ -202,6 +202,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Compound Probability: You Don’t Need 100% Coverage to Win](https://medium.com/@vanvleet/compound-probability-you-dont-need-100-coverage-to-win-a2e650da21a4)
 - [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051)
 - [Where should I place my detections? | walaakabbani](https://socinpurple.com/2023/11/25/where-i-should-place-my-detections/)
+- [SOC Visibility | walaakabbani](https://socinpurple.com/2023/07/08/soc-visibility-part-1/)
 - [DeTT&CT : Mapping detection to MITRE ATT&CK | Renaud Frère](https://blog.nviso.eu/2022/03/09/dettct-mapping-detection-to-mitre-attck/)
 - [DeTT&CT: Mapping your Blue Team to MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
 - [Distributed Security Alerting](https://slack.engineering/distributed-security-alerting/)
