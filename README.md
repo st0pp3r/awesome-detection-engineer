@@ -100,8 +100,6 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Apache Logging Configuration](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html#logformat) and [Apache Custom Log Format](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html)
 - [IIS Log File Formats](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525807(v=vs.90))
 - [NGINX Configuring Access Log](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/#setting-up-the-access-log) and [NGINX Access Log](https://nginx.org/en/docs/http/ngx_http_log_module.html#access_log)
-- [Barracuda Web Application Firewall Log Format](https://campus.barracuda.com/product/webapplicationfirewall/doc/168312817/log-formats) and [Barracuda Web Application Firewall Log Formats](https://campus.barracuda.com/product/webapplicationfirewall/doc/168312823/exporting-log-formats)
-
 
 ### Event Log References
 - [Windows Event IDs and Audit Policies](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings)
@@ -124,8 +122,9 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [AADSTS Error Codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes#aadsts-error-codes)
 - [GCP Threat Detection Findings](https://cloud.google.com/security-command-center/docs/concepts-security-sources#threats)
 - [GuardDuty Finding Types](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html)
-- [Barracuda Firewall Log Files Structure and Log Information](https://campus.barracuda.com/product/cloudgenfirewall/doc/172623663/available-log-files-and-structure)
+- [Barracuda Firewall Log Files Structure and Log Fields](https://campus.barracuda.com/product/cloudgenfirewall/doc/172623663/available-log-files-and-structure)
 - [Barracuda Web Security Gateway Log Fields](https://campus.barracuda.com/product/websecuritygateway/doc/168742383/syslog-and-the-barracuda-web-security-gateway/)
+- [Barracuda Web Application Firewall Log Format](https://campus.barracuda.com/product/webapplicationfirewall/doc/168312817/log-formats) and [Barracuda Web Application Firewall Log Formats](https://campus.barracuda.com/product/webapplicationfirewall/doc/168312823/exporting-log-formats)
 - [Check Point Firewall Log Fields](https://support.checkpoint.com/results/sk/sk144192)
 - [Cisco Umbrella Proxy Log Format](https://docs.umbrella.com/deployment-umbrella/docs/proxy-log-formats), [Cisco Umbrella DNS Log Format](https://docs.umbrella.com/deployment-umbrella/docs/dns-log-formats) and [Cisco Umbrella Content Categories](https://docs.umbrella.com/deployment-umbrella/docs/new-content-category-definitions)
 - [Cisco WSA Access Log Fields](https://www.cisco.com/c/en/us/td/docs/security/wsa/wsa11-0/user_guide/b_WSA_UserGuide/b_WSA_UserGuide_chapter_010111.html#con_1679851) and [Cisco WSA Filtering Categories](https://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/datasheet_C78-718442.html)
