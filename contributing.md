@@ -6,7 +6,7 @@ Thank you for your interest in contributing to this awesome list! We welcome con
 
 ### Adding to the List
 
-- Ensure the resource is relevant, high-quality, and well-maintained.
+- Ensure the resource is relevant, high-quality, and well-maintained. Please include resources that are related to the role of detection engineer and not cyber security in general.
 - Follow the existing format and alphabetize new additions.
 - Provide a short but descriptive summary.
 - Check for duplicates before submitting.
