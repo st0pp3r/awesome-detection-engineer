@@ -238,6 +238,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [@sigma_hq](https://x.com/sigma_hq)
 - [@cyb3rops](https://x.com/cyb3rops)
 - [@frack113](https://x.com/frack113)
+- [@nas_bench](https://x.com/nas_bench)
 - [@SBousseaden](https://x.com/SBousseaden)
 - [@SecurityAura](https://x.com/SecurityAura)
 - [@Oddvarmoe](https://x.com/Oddvarmoe)
