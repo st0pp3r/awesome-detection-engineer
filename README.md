@@ -191,7 +191,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [FalconForce Blog](https://falconforce.nl/blogs/)
 - [Red Canary Blog](https://redcanary.com/blog) and [Red Canary Blog Threat Detection Category](https://redcanary.com/blog/?topic=threat-detection)
 - [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Category](https://www.elastic.co/security-labs/topics/detection-science). Also everything [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
-- [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson](https://specterops.io/blog/?_sf_s=on%20detection)
+- [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson](https://posts.specterops.io/on-detection/home)
 - [Detect.fyi](https://detect.fyi/) - Collection of good detection engineering articles.
 - [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
 - [Alex Teixeira on Medium](https://ateixei.medium.com/)
