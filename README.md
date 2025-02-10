@@ -10,14 +10,14 @@ I will mostly include resources that are tailored as much as possible to the rol
 
 ## Contents
 - [Detection Rules](#detection-rules) - Online databases with detection rules.
-- [Detection Logic](#detection-logic) - Resources on detection logic.
+- [Detection Logic](#detection-logic) - Resources with detection logic.
 - [Attack Samples](#attack-samples) - Attack samples, useful for replaying attacks and testing detection logic.
 - [Detection Tests and Emulation Tools](#detection-tests-and-emulation-tools) - Tools and tests for testing detection logic and emulating attacks.
 - [Logging Configuration and Best Practices](#logging-configuration-and-best-practices) - Guidelines on configuring and optimizing logging.
-- [Event Log References](#event-log-references) - Online vendor documentation and references for event logs.
-- [Resources](#resources) - Useful online resources for detection engineers.
-- [Labs](#labs) - Online labs for detection engineers.
-- [Data Manipulation Online Tools](#data-manipulation-online-tools) - Useful online tools for detection engineers day-to-day.
+- [Event Log References](#event-log-references) - Vendor documentation and references for event logs.
+- [Resources](#resources) - Useful resources for detection engineers.
+- [Labs](#labs) - Labs for detection engineers.
+- [Data Manipulation Online Tools](#data-manipulation-online-tools) - Useful online tools for detection engineer's day-to-day.
 - [Blogs](#blogs) - Blogs that regularly release detection engineering-related content.
 - [Newsletters](#newsletters) - Newsletters with updates on detection engineering.
 - [Good Reads](#good-reads) - Noteworthy blog posts related to detection engineering.
@@ -40,7 +40,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Sigma Rules | mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules.
 - [Sigma Rules | Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules.
 - [Sigma Rules | tsale](https://github.com/tsale/Sigma_rules/tree/main) - Collection of sigma rules.
-- [Sigma Rules | JoeSecurity](https://github.com/joesecurity/sigma-rules/tree/master/rules)
+- [Sigma Rules | JoeSecurity](https://github.com/joesecurity/sigma-rules/tree/master/rules) - Collection of sigma rules.
 - [Sigma Rules Threat Hunting Keywords | mthcht](https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules/tree/main/sigma_rules/offensive_tools) - Collection of sigma rules.
 - [Sigma Rules | mbabinski](https://github.com/mbabinski/Sigma-Rules/tree/main) - Collection of sigma rules.
 - [Sigma Rules | Inovasys-CS](https://github.com/Inovasys-CS/EDI/tree/main) - Collection of sigma rules.
@@ -53,20 +53,21 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [KQL Queries | SlimKQL](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules) - Collection of KQL queries.
 - [KQL Search](https://www.kqlsearch.com/) - Collection of KQL queries from various GitHub repositories.
 - [DetectionCode](https://detectioncode.com/) - Detection rules search engine.
-- [Attack Rule Map](https://attackrulemap.com/) - Mapping of open-source detection rules and atomic tests.
+- [Attack Rule Map](https://attackrulemap.com/) - Mapping of open-source detection rules.
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/) and [MITRE Cyber Analytics Repository (CAR) Coverage Comparison](https://car.mitre.org/coverage/) - The MITRE Cyber Analytics Repository (CAR) is a knowledge base of analytics based on the MITRE ATT&CK framework.
 - [Google Cloud Platform (GCP) Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - Security analytics to monitor cloud activity within Google Cloud.
-- [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the sophisticated detections found within the Anvilogic Platform Armory.
+- [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the detections from the Anvilogic Platform Armory.
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
-- [LogPoint Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/index.html) - LogPoint's Alert Rules.
+- [LogPoint Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/index.html) - LogPoint's alert rules.
 - [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset/rules) - Wazuh ruleset repository.
 
 ### Detection Logic
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
-- [Antivirus Cheatsheet | Nextron Systems](https://www.nextron-systems.com/?s=antivirus)
-- [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf)
+- [Antivirus Cheatsheet | Nextron Systems](https://www.nextron-systems.com/?s=antivirus) - Antivirus keywords and detection logic from Nextron.
+- [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf) - Bsides presenation that includes detection logic for active directory attacks.
 - [Awesome Lists | mthcht](https://github.com/mthcht/awesome-lists/tree/main/Lists) - Includes keywords, paths from various tools that can be used to implement detection logic.
+- [Active Directory Security (adsecurity.org)](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 
 ### Attack Samples
 - [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples.
@@ -74,21 +75,21 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Security Datasets](https://github.com/OTRF/Security-Datasets/tree/master/datasets) - Datasets of malicious and benign indicators, from different platforms.
 - [Tool Analysis Results Sheet | jpcertcc](https://jpcertcc.github.io/ToolAnalysisResultSheet) - Results of examining logs recorded in Windows upon execution of 49 tools.
 - [Mordor Dataset](https://github.com/UraSecTeam/mordor) - Pre-recorded security events generated after simulating adversarial techniques.
-- [Attack Data | Splunk](https://github.com/splunk/attack_data) A Repository of curated datasets from various attacks
+- [Attack Data | Splunk](https://github.com/splunk/attack_data) A repository of datasets from various attacks
 - [Secrepo](https://secrepo.com/) - Samples of various types of Security related data.
 - [PCAP-ATTACK | sbousseaden](https://github.com/sbousseaden/PCAP-ATTACK) - PCAP captures mapped to the relevant attack tactic.
-- [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) - A site for sharing packet capture (pcap) files and malware samples.
+- [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) - Site for sharing packet capture (pcap) files and malware samples.
 - [NetreSec PCAPs](https://www.netresec.com/?page=PcapFiles) - List of public packet capture repositories.
 
 ### Detection Tests and Emulation Tools
-- [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Library of tests mapped to the MITRE ATT&CK framework.
-- [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Basically atomic red team atomics for cloud.
-- [LOLBAS Project](https://lolbas-project.github.io/) - Binaries, scripts, and libraries that can be used for Living Off The Land techniques.
-- [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land.
-- [MITRE Caldera](https://caldera.mitre.org/) - Adversary Emulation Framework by MITRE.
+- [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Tests mapped to the MITRE ATT&CK framework.
+- [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Similar to red team atomics but for cloud.
+- [LOLBAS Project](https://lolbas-project.github.io/) - Binaries, scripts, and libraries that can be used for Living Off The Land techniques. Includes commands that can be run to test TTPs.
+- [LOLOL Farm](https://lolol.farm/)- A great collection of resources to thrive off the land. Includes commands that can be run to test TTPs.
+- [MITRE Caldera](https://caldera.mitre.org/) - Adversary emulation framework by MITRE.
 - [Active Directory Attack Tests | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack tests.
-- [Network Flight Simulator](https://github.com/alphasoc/flightsim#network-flight-simulator) - lightweight utility used to generate malicious network traffic.
-- [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
+- [Network Flight Simulator](https://github.com/alphasoc/flightsim#network-flight-simulator) - Lightweight utility used to generate malicious network traffic.
+- [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) - Windows batch script that uses a set of tools and output files to make a system look as if it was compromised.
 - [Infection Monkey](https://github.com/guardicore/monkey#infection-monkey) - Open-source adversary emulation platform.
 - [rtt.secdude.de](https://rtt.secdude.de/) - Nice page that includes commands mapped to MITRE ATT&CK.
 
@@ -101,9 +102,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Sysmon Configuration | SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
 - [Sysmon Configuration | Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
 - [KQL Query for Validating your Windows Audit Policy](https://blog.nviso.eu/2024/09/05/validate-your-windows-audit-policy-configuration-with-kql/)
-- [Apache Logging Configuration](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html#logformat) and [Apache Custom Log Format](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html)
-- [IIS Log File Formats](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525807(v=vs.90))
-- [NGINX Configuring Access Log](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/#setting-up-the-access-log) and [NGINX Access Log](https://nginx.org/en/docs/http/ngx_http_log_module.html#access_log)
+- [Apache Logging Configuration](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html#logformat)
+- [NGINX Configuring Access Log](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/#setting-up-the-access-log)
 
 ### Event Log References
 - [Windows Event IDs and Audit Policies](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings)
@@ -144,21 +144,23 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [WatchGuard Fireware OS Log Format](https://www.watchguard.com/help/docs/fireware/12/en-US/log_catalog/12_11_Log-Catalog.pdf)
 - [Sophos Firewall Log Documentation](https://docs.sophos.com/nsg/sophos-firewall/19.5/PDF/SF-syslog-guide-19.5.pdf)
 - [Sophos Central Admin Events](https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/LogsReports/Logs/Events/EventTypes/index.html#runtime-detections)
+- [Apache Custom Log Format](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html)
+- [IIS Log File Format](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525807(v=vs.90))
+- [NGINX Access Log Format](https://nginx.org/en/docs/http/ngx_http_log_module.html#access_log)
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
 - [DeTT&CT](https://github.com/rabobank-cdc/DeTTECT/) - DeTT&CT aims to assist blue teams in using ATT&CK to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviors.
 - [MITRE D3fend](https://d3fend.mitre.org/) - A knowledge of cybersecurity countermeasures.
-- [Active Directory Security (adsecurity.org)](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 - [Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/) - 19 rules for developing detection rules.
 - [Uncoder IO](https://uncoder.io/) - Detection logic query converter.
 - [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework#alerting-and-detection-strategies-framework)- A structured approach to designing and documenting effective detection methodologies.
 - [Detection Engineering Maturity Matrix | Kyle Bailey](https://detectionengineering.io/) - Aims to help the community better measure the capabilities and maturity of their detection function.
 - [Detection Engineering Maturity (DML) Model | Ryan Stillions](https://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html) - A tool for assessing an organization’s detection engineering capabilities and maturity levels.
 - [MaGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) - Methodology for defining and managing threat detection use cases.
-- [Detection Engineering Cheatsheet | Florian Roth](https://x.com/cyb3rops/status/1592879894396293121) - Chee sheet for prioritizing detection development. 
-- [Microsoft Azure Security Control Mappings to MITRE ATT&CK](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html)
-- [Detection Practices | ncsc](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/detection/detection-practices)
+- [Detection Engineering Cheatsheet | Florian Roth](https://x.com/cyb3rops/status/1592879894396293121) - Cheatsheet for prioritizing detection development. 
+- [Microsoft Azure Security Control Mappings to MITRE ATT&CK](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html) - Coverage of various Azure security control products mappings to MITRE ATT&CK .
+- [Detection Practices | ncsc](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/detection/detection-practices) - General guidelines on building detection processes.
 - [EDR Telemetry | tsale](https://github.com/tsale/EDR-Telemetry/tree/main) - Telemetry comparison and telemetry generator for different EDRs.
 - [Threat Intel Reports](https://mthcht.github.io/ThreatIntel-Reports/) - Threat Intel reports to be used as inspiration for use case creation.
 - [xCyclopedia](https://github.com/strontic/xcyclopedia) - The xCyclopedia project attempts to document all executable binaries (and eventually scripts) that reside on a typical operating system.
@@ -175,9 +177,9 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [CyberChef](https://gchq.github.io/CyberChef/) - Multiple data manipulation tools, decoders, decryptors.
  - [JSON Formatter](https://jsonformatter.curiousconcept.com/#) - JSON Beautifier.
  - [JSONCrack](https://jsoncrack.com/editor) - JSON, YML, CSV, XML Editor.
- - [Grok Debugger](https://grokdebugger.com/) - Text manipulation.
- - [Text Mechanic](https://textmechanic.com/) - Text manipulation.
- - [Text Fixer](https://www.textfixer.com/) - Text manipulation.
+ - [Grok Debugger](https://grokdebugger.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
+ - [Text Mechanic](https://textmechanic.com/) - Text manipulation  (Remove duplicates, prefix, suffix, word count etc.).
+ - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Hash Calculator](https://md5calc.com/hash) - Hash calculator and other tools.
  - [Free Formatter](https://www.freeformatter.com/xml-formatter.html) - Formatter for XML, JSON, HTML.
  - [HTML Formatter](https://htmlformatter.com/) - Formatter for HTML.
@@ -195,18 +197,21 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Alex Teixeira on Medium](https://ateixei.medium.com/)
 
 ### Newsletters
-- [Detection Engineering Weekly](https://www.detectionengineering.net/)
-- [Detections Digest](https://detections-digest.rulecheck.io/) - A newsletter with many popular detection content sources..
+- [Detection Engineering Weekly](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
+- [Detections Digest](https://detections-digest.rulecheck.io/) - A newsletter with weekly updates on detection rules from GitHub repositories.
 
 ### Good Reads
+- [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051)
 - [About Detection Engineering | Florian Roth](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0)
 - [Detection Development Lifecycle | Haider Dost](https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc)
 - [Elastic releases the Detection Engineering Behavior Maturity Model](https://www.elastic.co/security-labs/elastic-releases-debmm)
 - [Threat Detection Maturity Framework | Haider Dost](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc)
 - [Compound Probability: You Don’t Need 100% Coverage to Win](https://medium.com/@vanvleet/compound-probability-you-dont-need-100-coverage-to-win-a2e650da21a4)
-- [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051)
 - [Where should I place my detections? | walaakabbani](https://socinpurple.com/2023/11/25/where-i-should-place-my-detections/)
 - [SOC Visibility | walaakabbani](https://socinpurple.com/2023/07/08/soc-visibility-part-1/)
+- [What Makes a “Good” Detection? | The Cybersec Café](https://infosecwriteups.com/what-makes-a-good-detection-44417b6ef3de)
+- [Lessons Learned in Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856)
+- [Alerting and Detection Strategy Framework | Palantir](https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2)
 - [DeTT&CT : Mapping detection to MITRE ATT&CK | Renaud Frère](https://blog.nviso.eu/2022/03/09/dettct-mapping-detection-to-mitre-attck/)
 - [DeTT&CT: Mapping your Blue Team to MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
 - [Distributed Security Alerting](https://slack.engineering/distributed-security-alerting/)
@@ -232,12 +237,12 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [SANS SEC555: Detection Engineering and SIEM Analytics](https://www.sans.org/cyber-security-courses/detection-engineering-siem-analytics/)
 
 ### Podcasts
-- [Detection Challenging Paradigms | SpecterOps](https://www.dcppodcast.com/all-episodes)
+- [Detection Challenging Paradigms | SpecterOps](https://www.dcppodcast.com/all-episodes) - Discussing various topics on threat detection.
+- [Detection at Scale](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270) - Discussing threat landscape and a lot detection related topics.
 - [Darknet Diaries](https://darknetdiaries.com/) - Not detection engineering focused but one of my favorites.
-- [Detection at Scale](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270)
 
 ### Videos
-- [Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams)
+- [Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams) - YouTube series discussing detection opportunities.
 
 ### Twitter/X
 - [@sigma_hq](https://x.com/sigma_hq)
