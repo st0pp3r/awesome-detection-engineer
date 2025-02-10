@@ -239,7 +239,6 @@ I will mostly include resources that are tailored as much as possible to the rol
 ### Podcasts
 - [Detection Challenging Paradigms | SpecterOps](https://www.dcppodcast.com/all-episodes) - Discussing various topics on threat detection.
 - [Detection at Scale](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270) - Discussing threat landscape and a lot detection related topics.
-- [Darknet Diaries](https://darknetdiaries.com/) - Not detection engineering focused but one of my favorites.
 
 ### Videos
 - [Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams) - YouTube series discussing detection opportunities.
