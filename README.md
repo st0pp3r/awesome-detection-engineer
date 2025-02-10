@@ -248,4 +248,5 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [@SecurityAura](https://x.com/SecurityAura)
 - [@Oddvarmoe](https://x.com/Oddvarmoe)
 - [@jaredcatkinson](https://x.com/jaredcatkinson)
+- [@olafhartong](https://x.com/olafhartong)
 - [Awesome Detection List](https://x.com/i/lists/952735755838738432)
