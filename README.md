@@ -59,8 +59,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Google Cloud Platform (GCP) Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - Security analytics to monitor cloud activity within Google Cloud.
 - [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the detections from the Anvilogic Platform Armory.
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
-- [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
-- [SnapAttack](https://snapattack.com/) - Collection of free and paid detection rules.
+- [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules (requires registration).
+- [SnapAttack](https://snapattack.com/) - Collection of free and paid detection rules (requires registration).
 - [LogPoint Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/index.html) - LogPoint's alert rules.
 - [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset/rules) - Wazuh ruleset repository.
 
