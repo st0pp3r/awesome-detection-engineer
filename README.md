@@ -65,7 +65,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 ### Detection Logic
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
 - [Antivirus Cheatsheet | Nextron Systems](https://www.nextron-systems.com/?s=antivirus) - Antivirus keywords and detection logic from Nextron.
-- [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf) - Bsides presenation that includes detection logic for active directory attacks.
+- [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf) - Bsides presentation that includes detection logic for active directory attacks.
 - [Awesome Lists | mthcht](https://github.com/mthcht/awesome-lists/tree/main/Lists) - Includes keywords, paths from various tools that can be used to implement detection logic.
 - [Active Directory Security (adsecurity.org)](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 
