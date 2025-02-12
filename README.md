@@ -51,6 +51,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [KQL Queries for DefenderATP | 0xAnalyst](https://github.com/0xAnalyst/DefenderATPQueries) - Collection of KQL queries.
 - [KQL Queries | Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) - Collection of KQL queries.
 - [KQL Queries | SlimKQL](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules) - Collection of KQL queries.
+- [KQL Queries | cyb3rmik3](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) - Collection of KQL queries.
 - [KQL Search](https://www.kqlsearch.com/) - Collection of KQL queries from various GitHub repositories.
 - [DetectionCode](https://detectioncode.com/) - Detection rules search engine.
 - [Attack Rule Map](https://attackrulemap.com/) - Mapping of open-source detection rules.
@@ -58,14 +59,15 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Google Cloud Platform (GCP) Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - Security analytics to monitor cloud activity within Google Cloud.
 - [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) - Public versions of the detections from the Anvilogic Platform Armory.
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
-- [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules.
+- [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules (requires registration).
+- [SnapAttack](https://snapattack.com/) - Collection of free and paid detection rules (requires registration).
 - [LogPoint Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/index.html) - LogPoint's alert rules.
 - [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset/rules) - Wazuh ruleset repository.
 
 ### Detection Logic
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
 - [Antivirus Cheatsheet | Nextron Systems](https://www.nextron-systems.com/?s=antivirus) - Antivirus keywords and detection logic from Nextron.
-- [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf) - Bsides presenation that includes detection logic for active directory attacks.
+- [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf) - Bsides presentation that includes detection logic for active directory attacks.
 - [Awesome Lists | mthcht](https://github.com/mthcht/awesome-lists/tree/main/Lists) - Includes keywords, paths from various tools that can be used to implement detection logic.
 - [Active Directory Security (adsecurity.org)](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 - [Tool Analysis Results Sheet | jpcertcc](https://jpcertcc.github.io/ToolAnalysisResultSheet) - Results of examining logs recorded in Windows upon execution of 49 tools.
