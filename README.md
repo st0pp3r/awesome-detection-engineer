@@ -225,6 +225,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [How to prioritize a Detection Backlog? | Alex Teixeira](https://detect.fyi/how-to-prioritize-a-detection-backlog-84a16d4cc7ae)
 - [Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 - [Atomic and Stateful Detection Rules](https://blog.ecapuano.com/p/atomic-and-stateful-detection-rules)
+- [Detection-as-Code Testing](https://kyle-bailey.medium.com/detection-as-code-testing-c03b0eea7fb8)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
