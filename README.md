@@ -199,7 +199,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
 - [Alex Teixeira on Medium](https://ateixei.medium.com/)
 
-### Newsletters
+### **Newsletters**
 - [Detection Engineering Weekly](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
 - [Detections Digest](https://detections-digest.rulecheck.io/) - A newsletter with weekly updates on detection rules from GitHub repositories.
 
@@ -223,6 +223,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Can We Have “Detection as Code”? | Anton Chuvakin](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79)
 - [Automating Detection-as-Code | John Tuckner](https://www.tines.com/blog/automating-detection-as-code/)
 - [How to prioritize a Detection Backlog? | Alex Teixeira](https://detect.fyi/how-to-prioritize-a-detection-backlog-84a16d4cc7ae)
+- [Prioritization of the Detection Engineering Backlog | Joshua Prager & Emily Leidy](https://posts.specterops.io/prioritization-of-the-detection-engineering-backlog-dcb18a896981)
 - [Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 - [Atomic and Stateful Detection Rules](https://blog.ecapuano.com/p/atomic-and-stateful-detection-rules)
 - [Detection-as-Code Testing](https://kyle-bailey.medium.com/detection-as-code-testing-c03b0eea7fb8)
