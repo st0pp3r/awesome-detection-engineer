@@ -199,7 +199,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson](https://posts.specterops.io/on-detection/home)
 - [Detect.fyi](https://detect.fyi/) - Collection of good detection engineering articles.
 - [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
-- [Alex Teixeira on Medium](https://ateixei.medium.com/)
+- [Alex Teixeira on Medium](https://ateixei.medium.com/) - Frequently writes about detection engineering topics.
+- [Detection at Scale](https://www.detectionatscale.com/) - Collection of good detection engineering articles.
 
 ### **Newsletters**
 - [Detection Engineering Weekly](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
