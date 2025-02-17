@@ -71,6 +71,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Awesome Lists | mthcht](https://github.com/mthcht/awesome-lists/tree/main/Lists) - Includes keywords, paths from various tools that can be used to implement detection logic.
 - [Active Directory Security (adsecurity.org)](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 - [Tool Analysis Results Sheet | jpcertcc](https://jpcertcc.github.io/ToolAnalysisResultSheet) - Results of examining logs recorded in Windows upon execution of 49 tools.
+- [Offensive Kerberos Techniques for Detection Engineering | Noah](https://medium.com/@noah_h/offensive-kerberos-techniques-for-detection-engineering-16a81483f676)
 
 ### Attack Samples
 - [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Event viewer attack samples.
@@ -175,7 +176,6 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [Detection LAB](https://github.com/clong/DetectionLab/)
  - [Constructing Defense](https://course.constructingdefense.com/constructing-defense)
 
- 
 ### Data Manipulation Online Tools
  - [Regex101](https://regex101.com/) - Regex testing.
  - [Regexr](https://regexr.com/) - Regex testing.
