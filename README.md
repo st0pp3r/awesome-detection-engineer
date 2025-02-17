@@ -169,10 +169,12 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [xCyclopedia](https://github.com/strontic/xcyclopedia) - The xCyclopedia project attempts to document all executable binaries (and eventually scripts) that reside on a typical operating system.
 
 ### Labs
- - [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
  - [Splunk Attack Range](https://github.com/splunk/attack_range)
- - [Detection LAB](https://github.com/clong/DetectionLab/) - Deprecated
+ - [PurpleLab](https://github.com/Krook9d/PurpleLab)
+ - [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
+ - [Detection LAB](https://github.com/clong/DetectionLab/)
  - [Constructing Defense](https://course.constructingdefense.com/constructing-defense)
+
  
 ### Data Manipulation Online Tools
  - [Regex101](https://regex101.com/) - Regex testing.
