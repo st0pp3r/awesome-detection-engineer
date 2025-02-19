@@ -46,6 +46,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Sigma Rules Threat Hunting Keywords | mthcht](https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules/tree/main/sigma_rules/offensive_tools) - Collection of sigma rules.
 - [Sigma Rules | mbabinski](https://github.com/mbabinski/Sigma-Rules/tree/main) - Collection of sigma rules.
 - [Sigma Rules | Inovasys-CS](https://github.com/Inovasys-CS/EDI/tree/main) - Collection of sigma rules.
+- [Sigma Rules | RussianPanda95](https://github.com/RussianPanda95/Sigma-Rules) - Collection of sigma rules.
 - [KQL Queries | FalconForce](https://github.com/FalconForceTeam/FalconFriday/tree/master) - Collection of KQL queries.
 - [KQL Queries | SecurityAura](https://github.com/SecurityAura/DE-TH-Aura) - Collection of KQL queries.
 - [KQL Queries for Sentinel | reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries.
