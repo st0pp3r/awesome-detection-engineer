@@ -259,6 +259,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [@frack113](https://x.com/frack113)
 - [@nas_bench](https://x.com/nas_bench)
 - [@SBousseaden](https://x.com/SBousseaden)
+- [@ateixei](https://x.com/ateixei)
 - [@SecurityAura](https://x.com/SecurityAura)
 - [@Oddvarmoe](https://x.com/Oddvarmoe)
 - [@jaredcatkinson](https://x.com/jaredcatkinson)
