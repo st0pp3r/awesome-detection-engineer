@@ -25,6 +25,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Trainings](#trainings) - Available trainings focused on detection engineering.
 - [Podcasts](#podcasts) - Podcasts focused on detection engineering.
 - [Videos](#videos) - Videos focused on detection engineering.
+- [Conferences](#Conferences) - Conferences focused on detection engineering.
 - [Twitter/X](#twitterx) - Relevant Twitter/X accounts.
 
 ### Detection Rules
@@ -252,6 +253,9 @@ I will mostly include resources that are tailored as much as possible to the rol
 
 ### Videos
 - [Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams) - YouTube series discussing detection opportunities.
+
+### Conferences
+- [DEATHcon](https://deathcon.io/) - Conference focused on Detection Engineering and Threat Hunting (DEATH).
 
 ### Twitter/X
 - [@sigma_hq](https://x.com/sigma_hq)
