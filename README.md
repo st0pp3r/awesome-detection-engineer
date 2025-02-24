@@ -247,7 +247,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [SANS SEC511: Cybersecurity Engineering: Advanced Threat Detection and Monitoring](https://www.sans.org/cyber-security-courses/cybersecurity-engineering-advanced-threat-detection-monitoring/)
 
 ### Podcasts
-- [Detection Challenging Paradigms | SpecterOps](https://www.dcppodcast.com/all-episodes) - Discussing various topics on threat detection.
+- [Detection Challenging Paradigms | SpecterOps](https://creators.spotify.com/pod/show/dcppodcast) - Discussing various topics on threat detection.
 - [Detection at Scale](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270) - Discussing threat landscape and a lot detection related topics.
 
 ### Videos
