@@ -160,6 +160,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [MITRE D3fend](https://d3fend.mitre.org/) - A knowledge of cybersecurity countermeasures.
 - [Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/) - 19 rules for developing detection rules.
 - [Uncoder IO](https://uncoder.io/) - Detection logic query converter.
+- [Detection Studio](https://detection.studio/) - Sigma to SIEM query converter.
 - [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework#alerting-and-detection-strategies-framework)- A structured approach to designing and documenting effective detection methodologies.
 - [Detection Engineering Maturity Matrix | Kyle Bailey](https://detectionengineering.io/) - Aims to help the community better measure the capabilities and maturity of their detection function.
 - [Detection Engineering Maturity (DML) Model | Ryan Stillions](https://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html) - A tool for assessing an organization’s detection engineering capabilities and maturity levels.
