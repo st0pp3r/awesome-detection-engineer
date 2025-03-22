@@ -205,7 +205,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Alex Teixeira on Medium](https://ateixei.medium.com/) - Frequently writes about detection engineering topics.
 - [Detection at Scale](https://www.detectionatscale.com/) - Collection of good detection engineering articles.
 
-### **Newsletters**
+### Newsletters
 - [Detection Engineering Weekly](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
 - [Detections Digest](https://detections-digest.rulecheck.io/) - A newsletter with weekly updates on detection rules from GitHub repositories.
 
