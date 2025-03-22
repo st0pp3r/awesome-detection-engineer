@@ -269,4 +269,5 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [@Oddvarmoe](https://x.com/Oddvarmoe)
 - [@jaredcatkinson](https://x.com/jaredcatkinson)
 - [@olafhartong](https://x.com/olafhartong)
+- [@bohops](https://x.com/bohops)
 - [Awesome Detection List](https://x.com/i/lists/952735755838738432)
