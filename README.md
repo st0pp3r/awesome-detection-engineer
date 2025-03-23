@@ -4,7 +4,7 @@
 Online resources for Detection Engineers. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.
 The repo generates a bookmark file for easy import to your browser.
 
-I will mostly include resources that are tailored as much as possible to the role of the detection engineer and not the field of cyber security in general.
+Resources are tailored as much as possible to the role of the detection engineer and not the field of cyber security in general.
 
 **Contributions are welcome!**
 
