@@ -270,4 +270,5 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [@jaredcatkinson](https://x.com/jaredcatkinson)
 - [@olafhartong](https://x.com/olafhartong)
 - [@bohops](https://x.com/bohops)
+- [@nextronresearch](https://x.com/nextronresearch)
 - [Awesome Detection List](https://x.com/i/lists/952735755838738432)
