@@ -221,6 +221,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Threat Detection Maturity Framework | Haider Dost](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc)
 - [Compound Probability: You Don’t Need 100% Coverage to Win](https://medium.com/@vanvleet/compound-probability-you-dont-need-100-coverage-to-win-a2e650da21a4)
 - [Where should I place my detections? | walaakabbani](https://socinpurple.com/2023/11/25/where-i-should-place-my-detections/)
+- [My 2025 Detection Philosophy and the Pursuit of Immutable Artifacts | Koifsec](https://detect.fyi/if-a-log-falls-in-the-siem-does-it-generate-an-alert-my-2025-detection-philosophy-5751c1a0ee56)
 - [SOC Visibility | walaakabbani](https://socinpurple.com/2023/07/08/soc-visibility-part-1/)
 - [What Makes a “Good” Detection? | The Cybersec Café](https://infosecwriteups.com/what-makes-a-good-detection-44417b6ef3de)
 - [Lessons Learned in Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856)
