@@ -57,6 +57,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [KQL Queries | SlimKQL](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules) - Collection of KQL queries.
 - [KQL Queries | cyb3rmik3](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) - Collection of KQL queries.
 - [KQL Search](https://www.kqlsearch.com/) - Collection of KQL queries from various GitHub repositories.
+- [Rulehound](https://rulehound.com/rules) - Detection rules search engine.
 - [DetectionCode](https://detectioncode.com/) - Detection rules search engine.
 - [Attack Rule Map](https://attackrulemap.com/) - Mapping of open-source detection rules.
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/) and [MITRE Cyber Analytics Repository (CAR) Coverage Comparison](https://car.mitre.org/coverage/) - The MITRE Cyber Analytics Repository (CAR) is a knowledge base of analytics based on the MITRE ATT&CK framework.
