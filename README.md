@@ -113,6 +113,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [NGINX Configuring Access Log](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/#setting-up-the-access-log)
 
 ### Event Log References
+- [Eventlog Compendium](https://eventlog-compendium.streamlit.app/) - The Eventlog Compendium is the go-to resource for understanding Windows Event Logs.
 - [Windows Event IDs and Audit Policies](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings)
 - [Windows Security Log Event IDs Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
 - [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
