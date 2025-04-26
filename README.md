@@ -261,7 +261,8 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Videos
 - [Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams) - YouTube series discussing detection opportunities.
-- [Detection as Code: Detection Development Using CI/CD](https://www.youtube.com/watch?v=_JEvyem4ryg) - RSA Presentation
+- [Detection as Code: Detection Development Using CI/CD](https://www.youtube.com/watch?v=_JEvyem4ryg) - RSA Presentation.
+- [Detection-as-code: Why it works and where to start (Kyle Bailey)](https://www.youtube.com/watch?v=VaZp7A6Q9zE) - BSides presentation.
 
 ### Conferences
 - [DEATHcon](https://deathcon.io/) - Conference focused on Detection Engineering and Threat Hunting (DEATH).
