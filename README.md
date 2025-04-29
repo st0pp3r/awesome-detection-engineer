@@ -240,6 +240,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 - [Atomic and Stateful Detection Rules](https://blog.ecapuano.com/p/atomic-and-stateful-detection-rules)
 - [Detection-as-Code Testing](https://kyle-bailey.medium.com/detection-as-code-testing-c03b0eea7fb8)
+- [Can We Stop Documenting Our Detections?](https://detect.fyi/can-we-stop-documenting-our-detections-ded2201ec09b)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
