@@ -159,6 +159,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Apache Custom Log Format](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html)
 - [IIS Log File Format](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525807(v=vs.90))
 - [NGINX Access Log Format](https://nginx.org/en/docs/http/ngx_http_log_module.html#access_log)
+- [HackTheLogs](https://www.hackthelogs.com/)
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
