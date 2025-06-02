@@ -113,6 +113,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [NGINX Configuring Access Log](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/#setting-up-the-access-log)
 
 ### Event Log References
+- [HackTheLogs](https://www.hackthelogs.com/)
 - [Eventlog Compendium](https://eventlog-compendium.streamlit.app/) - The Eventlog Compendium is the go-to resource for understanding Windows Event Logs.
 - [Windows Event IDs and Audit Policies](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings)
 - [Windows Security Log Event IDs Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
@@ -159,7 +160,6 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Apache Custom Log Format](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html)
 - [IIS Log File Format](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525807(v=vs.90))
 - [NGINX Access Log Format](https://nginx.org/en/docs/http/ngx_http_log_module.html#access_log)
-- [HackTheLogs](https://www.hackthelogs.com/)
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
@@ -178,6 +178,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [EDR Telemetry | tsale](https://github.com/tsale/EDR-Telemetry/tree/main) - Telemetry comparison and telemetry generator for different EDRs.
 - [Threat Intel Reports](https://mthcht.github.io/ThreatIntel-Reports/) - Threat Intel reports to be used as inspiration for use case creation.
 - [xCyclopedia](https://github.com/strontic/xcyclopedia) - The xCyclopedia project attempts to document all executable binaries (and eventually scripts) that reside on a typical operating system.
+- [AD Detection Engineering Notes](https://vincent03dinh.wordpress.com/2025/04/24/active-directory-detection-engineering-notes/)
 
 ### Labs
  - [Splunk Attack Range](https://github.com/splunk/attack_range)
