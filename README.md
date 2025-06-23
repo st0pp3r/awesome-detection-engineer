@@ -244,6 +244,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Detection-as-Code Testing](https://kyle-bailey.medium.com/detection-as-code-testing-c03b0eea7fb8)
 - [Can We Stop Documenting Our Detections?](https://detect.fyi/can-we-stop-documenting-our-detections-ded2201ec09b)
 - [Rethinking Alert Severity: A Formula for Consistent Scoring](https://medium.com/@silaspotter17/rethinking-alert-severity-a-formula-for-consistent-scoring-abbcb60e42ac)
+- [Why is no one talking about maintenance in detection engineering? | Agapios Tsolakis](https://falconforce.nl/why-is-no-one-talking-about-maintenance-in-detection-engineering/)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
