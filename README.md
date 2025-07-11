@@ -27,6 +27,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Videos](#videos) - Videos focused on detection engineering.
 - [Conferences](#Conferences) - Conferences focused on detection engineering.
 - [Twitter/X](#twitterx) - Relevant Twitter/X accounts.
+- [Other Resource Aggregator Projects](#other-resource-aggregator-projects) - Similar resource aggregator projects.
 
 ### Detection Rules
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Huge collection of detection rules from SIGMA HQ.
@@ -246,6 +247,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Can We Stop Documenting Our Detections?](https://detect.fyi/can-we-stop-documenting-our-detections-ded2201ec09b)
 - [Rethinking Alert Severity: A Formula for Consistent Scoring](https://medium.com/@silaspotter17/rethinking-alert-severity-a-formula-for-consistent-scoring-abbcb60e42ac)
 - [Why is no one talking about maintenance in detection engineering? | Agapios Tsolakis](https://falconforce.nl/why-is-no-one-talking-about-maintenance-in-detection-engineering/)
+- [Detection as Code | Panagiotis Gkatziroulis](https://purpleteamsec.substack.com/p/detection-as-code)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
@@ -287,3 +289,8 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [@bohops](https://x.com/bohops)
 - [@nextronresearch](https://x.com/nextronresearch)
 - [Awesome Detection List](https://x.com/i/lists/952735755838738432)
+
+### Other Resource Aggregator Projects
+- [Awesome Detection Engineering | infosecB](https://github.com/infosecB/awesome-detection-engineering)
+- [Awesome Threat Detection | 0x4D31](https://github.com/0x4D31/awesome-threat-detection)
+- [Detection Engineering Starter Pack](https://github.com/rfackroyd/detection-engineering-starter-pack)
