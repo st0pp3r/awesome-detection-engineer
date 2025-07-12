@@ -293,4 +293,4 @@ Resources are tailored as much as possible to the role of the detection engineer
 ### Other Resource Aggregator Projects
 - [Awesome Detection Engineering | infosecB](https://github.com/infosecB/awesome-detection-engineering)
 - [Awesome Threat Detection | 0x4D31](https://github.com/0x4D31/awesome-threat-detection)
-- [Detection Engineering Starter Pack](https://github.com/rfackroyd/detection-engineering-starter-pack)
+- [Detection Engineering Starter Pack | rfackroyd](https://github.com/rfackroyd/detection-engineering-starter-pack)
