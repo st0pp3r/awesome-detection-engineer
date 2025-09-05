@@ -100,6 +100,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) - Windows batch script that uses a set of tools and output files to make a system look as if it was compromised.
 - [Infection Monkey](https://github.com/guardicore/monkey#infection-monkey) - Open-source adversary emulation platform.
 - [rtt.secdude.de](https://rtt.secdude.de/) - Nice page that includes commands mapped to MITRE ATT&CK.
+- [Network Flight Simulator](https://github.com/alphasoc/flightsim) - Flightsim is a lightweight utility used to generate malicious network traffic.
 
 ### Logging Configuration and Best Practices
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
