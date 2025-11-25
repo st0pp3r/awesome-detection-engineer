@@ -249,6 +249,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Why is no one talking about maintenance in detection engineering? | Agapios Tsolakis](https://falconforce.nl/why-is-no-one-talking-about-maintenance-in-detection-engineering/)
 - [Detection as Code | Panagiotis Gkatziroulis](https://purpleteamsec.substack.com/p/detection-as-code)
 - [On Confidence | Richard Ackroyd](https://medium.com/@rfackroyd/on-confidence-fd5dc954aa77)
+- [Introducing the DRAPE Index: How to measure (in)success in a Threat Detection practice? | Alex Teixeira](https://detect.fyi/introducing-the-drape-index-how-to-measure-in-success-in-a-threat-detection-practice-154fd977f731)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
