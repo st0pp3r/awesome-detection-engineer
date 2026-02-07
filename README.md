@@ -181,6 +181,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Threat Intel Reports](https://mthcht.github.io/ThreatIntel-Reports/) - Threat Intel reports to be used as inspiration for use case creation.
 - [xCyclopedia](https://github.com/strontic/xcyclopedia) - The xCyclopedia project attempts to document all executable binaries (and eventually scripts) that reside on a typical operating system.
 - [AD Detection Engineering Notes](https://vincent03dinh.wordpress.com/2025/04/24/active-directory-detection-engineering-notes/)
+- [Adversarial Detection Engineering Framework](https://github.com/NikolasBielski/Adversarial-Detection-Engineering-Framework) - Adversarial Detection Engineering (ADE) is the discipline of reasoning about False Negatives in detection rules.
 
 ### Labs
  - [Splunk Attack Range](https://github.com/splunk/attack_range)
@@ -250,6 +251,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Detection as Code | Panagiotis Gkatziroulis](https://purpleteamsec.substack.com/p/detection-as-code)
 - [On Confidence | Richard Ackroyd](https://medium.com/@rfackroyd/on-confidence-fd5dc954aa77)
 - [Introducing the DRAPE Index: How to measure (in)success in a Threat Detection practice? | Alex Teixeira](https://detect.fyi/introducing-the-drape-index-how-to-measure-in-success-in-a-threat-detection-practice-154fd977f731)
+- [How data science can boost your detection engineering maintenance and keep you from herding sheep | Agapios Tsolakis](https://medium.com/falconforce/how-data-science-can-boost-your-detection-engineering-maintenance-and-keep-you-from-herding-sheep-8713b7220776)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
