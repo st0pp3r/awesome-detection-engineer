@@ -196,6 +196,7 @@ Resources are tailored as much as possible to the role of the detection engineer
  - [CyberChef](https://gchq.github.io/CyberChef/) - Multiple data manipulation tools, decoders, decryptors.
  - [JSON Formatter](https://jsonformatter.curiousconcept.com/#) - JSON Beautifier.
  - [JSONCrack](https://jsoncrack.com/editor) - JSON, YML, CSV, XML Editor.
+ - [JSONing](https://jsoning.com/) - Multiple JSON tools.
  - [Grok Debugger](https://grokdebugger.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Mechanic](https://textmechanic.com/) - Text manipulation  (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
