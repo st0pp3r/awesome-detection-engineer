@@ -259,7 +259,7 @@ Resources are tailored as much as possible to the role of the detection engineer
  - [Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware](https://link.springer.com/book/10.1007/978-1-4842-6193-4)
 
 ### Trainings
-- [XINTRA Attacking and Defending Azure & M365](https://www.xintra.org/training/course/1-attacking-and-defending-azure-m365)
+- [XINTRA Attacking and Defending Azure & M365](https://www.xintra.org/courses/1-attacking-and-defending-azure-m365)
 - [Specter Ops Adversary Tactics: Detection](https://specterops.io/training/adversary-tactics-detection/)
 - [FalconForce Advanced Detection Engineering in the Enterprise training](https://falconforce.nl/services/training/advanced-detection-engineering-training/)
 - [TCM Security Detection Engineering for Beginners](https://academy.tcm-sec.com/p/detection-engineering-for-beginners)
