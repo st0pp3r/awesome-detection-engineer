@@ -202,7 +202,6 @@ Resources are tailored as much as possible to the role of the detection engineer
  - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Hash Calculator](https://md5calc.com/hash) - Hash calculator and other tools.
  - [Free Formatter](https://www.freeformatter.com/xml-formatter.html) - Formatter for XML, JSON, HTML.
- - [HTML Formatter](https://htmlformatter.com/) - Formatter for HTML.
  - [Diff Checker](https://www.diffchecker.com/) - Diff comparison.
  - [CSVJSON](https://csvjson.com/csv2json) - CSV to JSON converter and vice versa.
  - [ChatGPT](https://chatgpt.com/) - Can be used to transform data.
@@ -210,7 +209,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 ### Blogs
 - [FalconForce Blog](https://falconforce.nl/blogs/)
 - [Red Canary Blog](https://redcanary.com/blog) and [Red Canary Blog Threat Detection Category](https://redcanary.com/blog/?topic=threat-detection)
-- [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Category](https://www.elastic.co/security-labs/topics/detection-science). Also everything [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
+- [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Engineering Category](https://www.elastic.co/security-labs/topics/detection-engineering). Also everything [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
 - [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson](https://posts.specterops.io/on-detection/home)
 - [Detect.fyi](https://detect.fyi/) - Collection of good detection engineering articles.
 - [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
