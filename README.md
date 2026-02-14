@@ -1,10 +1,10 @@
 # Awesome Detection Engineer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![URL Check](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Supreme-Detection-Engineer/actions/workflows/create_bookmarks.yml)
+[![URL Check](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/url_check.yml) [![Create Bookmarks File](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/create_bookmarks.yml)[![Spell Check](https://github.com/st0pp3r/awesome-detection-engineer/actions/workflows/spell_check.yml/badge.svg)](https://github.com/st0pp3r/awesome-detection-engineer/actions/workflows/spell_check.yml)
 
 Online resources for Detection Engineers. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.
 The repo generates a bookmark file for easy import to your browser.
 
-I will mostly include resources that are tailored as much as possible to the role of the detection engineer and not the field of cyber security in general.
+Resources are tailored as much as possible to the role of the detection engineer and not the field of cyber security in general.
 
 **Contributions are welcome!**
 
@@ -25,7 +25,9 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Trainings](#trainings) - Available trainings focused on detection engineering.
 - [Podcasts](#podcasts) - Podcasts focused on detection engineering.
 - [Videos](#videos) - Videos focused on detection engineering.
+- [Conferences](#Conferences) - Conferences focused on detection engineering.
 - [Twitter/X](#twitterx) - Relevant Twitter/X accounts.
+- [Other Resource Aggregator Projects](#other-resource-aggregator-projects) - Similar resource aggregator projects.
 
 ### Detection Rules
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Huge collection of detection rules from SIGMA HQ.
@@ -36,8 +38,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [LogPoint Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/index.html) - LogPoint's alert rules.
 - [Datadog Detections](https://docs.datadoghq.com/security/default_rules/#all) - Collection of detection rules by Datadog.
-- [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset/rules) - Wazuh ruleset repository.
-- [Sigma Rules | The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules/windows) - Collection of sigma rules.
+- [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) - Wazuh ruleset repository.
 - [Sigma Rules | mdecrevoisier](https://github.com/mdecrevoisier/SIGMA-detection-rules) - Collection of sigma rules.
 - [Sigma Rules | Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) - Collection of sigma rules.
 - [Sigma Rules | tsale](https://github.com/tsale/Sigma_rules/tree/main) - Collection of sigma rules.
@@ -45,6 +46,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Sigma Rules Threat Hunting Keywords | mthcht](https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules/tree/main/sigma_rules/offensive_tools) - Collection of sigma rules.
 - [Sigma Rules | mbabinski](https://github.com/mbabinski/Sigma-Rules/tree/main) - Collection of sigma rules.
 - [Sigma Rules | Inovasys-CS](https://github.com/Inovasys-CS/EDI/tree/main) - Collection of sigma rules.
+- [Sigma Rules | RussianPanda95](https://github.com/RussianPanda95/Sigma-Rules) - Collection of sigma rules.
 - [KQL Queries | FalconForce](https://github.com/FalconForceTeam/FalconFriday/tree/master) - Collection of KQL queries.
 - [KQL Queries | SecurityAura](https://github.com/SecurityAura/DE-TH-Aura) - Collection of KQL queries.
 - [KQL Queries for Sentinel | reprise99](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries.
@@ -54,6 +56,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [KQL Queries | SlimKQL](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules) - Collection of KQL queries.
 - [KQL Queries | cyb3rmik3](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) - Collection of KQL queries.
 - [KQL Search](https://www.kqlsearch.com/) - Collection of KQL queries from various GitHub repositories.
+- [Rulehound](https://rulehound.com/rules) - Detection rules search engine.
 - [DetectionCode](https://detectioncode.com/) - Detection rules search engine.
 - [Attack Rule Map](https://attackrulemap.com/) - Mapping of open-source detection rules.
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/) and [MITRE Cyber Analytics Repository (CAR) Coverage Comparison](https://car.mitre.org/coverage/) - The MITRE Cyber Analytics Repository (CAR) is a knowledge base of analytics based on the MITRE ATT&CK framework.
@@ -84,6 +87,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [NetreSec PCAPs](https://www.netresec.com/?page=PcapFiles) - List of public packet capture repositories.
 
 ### Detection Tests and Emulation Tools
+- [HackingTheCloud](https://hackingthe.cloud) - Encyclopedia of the attacks/tactics/techniques for cloud exploitation.
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Tests mapped to the MITRE ATT&CK framework.
 - [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Similar to red team atomics but for cloud.
 - [MalwLess Simulation Tool (MST)](https://github.com/n0dec/MalwLess) - Open source tool that allows you to simulate system compromise or attack behaviors without running processes.
@@ -95,6 +99,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) - Windows batch script that uses a set of tools and output files to make a system look as if it was compromised.
 - [Infection Monkey](https://github.com/guardicore/monkey#infection-monkey) - Open-source adversary emulation platform.
 - [rtt.secdude.de](https://rtt.secdude.de/) - Nice page that includes commands mapped to MITRE ATT&CK.
+- [Network Flight Simulator](https://github.com/alphasoc/flightsim) - Flightsim is a lightweight utility used to generate malicious network traffic.
 
 ### Logging Configuration and Best Practices
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
@@ -109,8 +114,22 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [NGINX Configuring Access Log](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/#setting-up-the-access-log)
 
 ### Event Log References
+- [HackTheLogs](https://www.hackthelogs.com/)
+- [Eventlog Compendium](https://eventlog-compendium.streamlit.app/) - The Eventlog Compendium is the go-to resource for understanding Windows Event Logs.
 - [Windows Event IDs and Audit Policies](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings)
 - [Windows Security Log Event IDs Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
+- [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
+- [Windows Logon Failure Codes](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625)
+- [Azure SigninLogs Schema](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/signinlogs)
+- [Azure SigninLogs Risk Detection](https://learn.microsoft.com/en-us/graph/api/resources/riskdetection?view=graph-rest-1.0)
+- [AADSTS Error Codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes#aadsts-error-codes)
+- [Microsoft Errors Search](https://login.microsoftonline.com/error)
+- [Microsoft Entra authentication and authorization error codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes)
+- [Microsoft Defender Event IDs](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus)
+- [Microsoft Defender for Cloud Alert References](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
+- [Microsoft Defender for Identity Alert References](https://learn.microsoft.com/en-us/defender-for-identity/alerts-overview)
+- [Microsoft Defender XDR Schemas](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables)
+- [Microsoft DNS Debug Event IDs](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn800669(v=ws.11)#dns-logging-and-diagnostics-1)
 - [Sysmon Event IDs](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#events)
 - [Cisco ASA Event IDs](https://www.cisco.com/c/en/us/td/docs/security/asa/syslog/b_syslog.html)
 - [Palo Alto PAN-OS Log Fields](https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-admin/monitoring/use-syslog-for-monitoring/syslog-field-descriptions)
@@ -119,14 +138,6 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [FortiGate FortiOS Log Types and Subtypes](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/160372/list-of-log-types-and-subtypes)
 - [FortiGate FortiOS Log Fields](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/357866/log-message-fields)
 - [FortiGate FortiGuard Encyclopedia](https://www.fortiguard.com/encyclopedia?type=ips)
-- [Microsoft Defender Event IDs](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus)
-- [Microsoft Defender for Cloud Alert References](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
-- [Microsoft Defender for Identity Alert References](https://learn.microsoft.com/en-us/defender-for-identity/alerts-overview)
-- [Microsoft Defender XDR Schemas](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables)
-- [Microsoft DNS Debug Event IDs](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn800669(v=ws.11)#dns-logging-and-diagnostics-1)
-- [Azure SigninLogs Schema](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/signinlogs)
-- [Azure SigninLogs Risk Detection](https://learn.microsoft.com/en-us/graph/api/resources/riskdetection?view=graph-rest-1.0)
-- [AADSTS Error Codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes#aadsts-error-codes)
 - [GCP Threat Detection Findings](https://cloud.google.com/security-command-center/docs/concepts-security-sources#threats)
 - [GuardDuty Finding Types](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html)
 - [Barracuda Firewall Log Files Structure and Log Fields](https://campus.barracuda.com/product/cloudgenfirewall/doc/172623663/available-log-files-and-structure)
@@ -157,6 +168,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [MITRE D3fend](https://d3fend.mitre.org/) - A knowledge of cybersecurity countermeasures.
 - [Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/) - 19 rules for developing detection rules.
 - [Uncoder IO](https://uncoder.io/) - Detection logic query converter.
+- [Detection Studio](https://detection.studio/) - Sigma to SIEM query converter.
 - [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework#alerting-and-detection-strategies-framework)- A structured approach to designing and documenting effective detection methodologies.
 - [Detection Engineering Maturity Matrix | Kyle Bailey](https://detectionengineering.io/) - Aims to help the community better measure the capabilities and maturity of their detection function.
 - [Detection Engineering Maturity (DML) Model | Ryan Stillions](https://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html) - A tool for assessing an organization’s detection engineering capabilities and maturity levels.
@@ -167,6 +179,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [EDR Telemetry | tsale](https://github.com/tsale/EDR-Telemetry/tree/main) - Telemetry comparison and telemetry generator for different EDRs.
 - [Threat Intel Reports](https://mthcht.github.io/ThreatIntel-Reports/) - Threat Intel reports to be used as inspiration for use case creation.
 - [xCyclopedia](https://github.com/strontic/xcyclopedia) - The xCyclopedia project attempts to document all executable binaries (and eventually scripts) that reside on a typical operating system.
+- [AD Detection Engineering Notes](https://vincent03dinh.wordpress.com/2025/04/24/active-directory-detection-engineering-notes/)
+- [Adversarial Detection Engineering Framework](https://github.com/NikolasBielski/Adversarial-Detection-Engineering-Framework) - Adversarial Detection Engineering (ADE) is the discipline of reasoning about False Negatives in detection rules.
 
 ### Labs
  - [Splunk Attack Range](https://github.com/splunk/attack_range)
@@ -181,12 +195,12 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [CyberChef](https://gchq.github.io/CyberChef/) - Multiple data manipulation tools, decoders, decryptors.
  - [JSON Formatter](https://jsonformatter.curiousconcept.com/#) - JSON Beautifier.
  - [JSONCrack](https://jsoncrack.com/editor) - JSON, YML, CSV, XML Editor.
+ - [JSONing](https://jsoning.com/) - Multiple JSON tools.
  - [Grok Debugger](https://grokdebugger.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Mechanic](https://textmechanic.com/) - Text manipulation  (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Hash Calculator](https://md5calc.com/hash) - Hash calculator and other tools.
  - [Free Formatter](https://www.freeformatter.com/xml-formatter.html) - Formatter for XML, JSON, HTML.
- - [HTML Formatter](https://htmlformatter.com/) - Formatter for HTML.
  - [Diff Checker](https://www.diffchecker.com/) - Diff comparison.
  - [CSVJSON](https://csvjson.com/csv2json) - CSV to JSON converter and vice versa.
  - [ChatGPT](https://chatgpt.com/) - Can be used to transform data.
@@ -194,14 +208,14 @@ I will mostly include resources that are tailored as much as possible to the rol
 ### Blogs
 - [FalconForce Blog](https://falconforce.nl/blogs/)
 - [Red Canary Blog](https://redcanary.com/blog) and [Red Canary Blog Threat Detection Category](https://redcanary.com/blog/?topic=threat-detection)
-- [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Category](https://www.elastic.co/security-labs/topics/detection-science). Also everything [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
+- [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Engineering Category](https://www.elastic.co/security-labs/topics/detection-engineering). Also everything [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
 - [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson](https://posts.specterops.io/on-detection/home)
 - [Detect.fyi](https://detect.fyi/) - Collection of good detection engineering articles.
 - [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
 - [Alex Teixeira on Medium](https://ateixei.medium.com/) - Frequently writes about detection engineering topics.
 - [Detection at Scale](https://www.detectionatscale.com/) - Collection of good detection engineering articles.
 
-### **Newsletters**
+### Newsletters
 - [Detection Engineering Weekly](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
 
 ### Good Reads
@@ -212,6 +226,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Threat Detection Maturity Framework | Haider Dost](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc)
 - [Compound Probability: You Don’t Need 100% Coverage to Win](https://medium.com/@vanvleet/compound-probability-you-dont-need-100-coverage-to-win-a2e650da21a4)
 - [Where should I place my detections? | walaakabbani](https://socinpurple.com/2023/11/25/where-i-should-place-my-detections/)
+- [My 2025 Detection Philosophy and the Pursuit of Immutable Artifacts | Koifsec](https://detect.fyi/if-a-log-falls-in-the-siem-does-it-generate-an-alert-my-2025-detection-philosophy-5751c1a0ee56)
 - [SOC Visibility | walaakabbani](https://socinpurple.com/2023/07/08/soc-visibility-part-1/)
 - [What Makes a “Good” Detection? | The Cybersec Café](https://infosecwriteups.com/what-makes-a-good-detection-44417b6ef3de)
 - [Lessons Learned in Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856)
@@ -228,6 +243,13 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 - [Atomic and Stateful Detection Rules](https://blog.ecapuano.com/p/atomic-and-stateful-detection-rules)
 - [Detection-as-Code Testing](https://kyle-bailey.medium.com/detection-as-code-testing-c03b0eea7fb8)
+- [Can We Stop Documenting Our Detections?](https://detect.fyi/can-we-stop-documenting-our-detections-ded2201ec09b)
+- [Rethinking Alert Severity: A Formula for Consistent Scoring](https://medium.com/@silaspotter17/rethinking-alert-severity-a-formula-for-consistent-scoring-abbcb60e42ac)
+- [Why is no one talking about maintenance in detection engineering? | Agapios Tsolakis](https://falconforce.nl/why-is-no-one-talking-about-maintenance-in-detection-engineering/)
+- [Detection as Code | Panagiotis Gkatziroulis](https://purpleteamsec.substack.com/p/detection-as-code)
+- [On Confidence | Richard Ackroyd](https://medium.com/@rfackroyd/on-confidence-fd5dc954aa77)
+- [Introducing the DRAPE Index: How to measure (in)success in a Threat Detection practice? | Alex Teixeira](https://detect.fyi/introducing-the-drape-index-how-to-measure-in-success-in-a-threat-detection-practice-154fd977f731)
+- [How data science can boost your detection engineering maintenance and keep you from herding sheep | Agapios Tsolakis](https://medium.com/falconforce/how-data-science-can-boost-your-detection-engineering-maintenance-and-keep-you-from-herding-sheep-8713b7220776)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
@@ -235,7 +257,7 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware](https://link.springer.com/book/10.1007/978-1-4842-6193-4)
 
 ### Trainings
-- [XINTRA Attacking and Defending Azure & M365](https://www.xintra.org/training/course/1-attacking-and-defending-azure-m365)
+- [XINTRA Attacking and Defending Azure & M365](https://www.xintra.org/courses/1-attacking-and-defending-azure-m365)
 - [Specter Ops Adversary Tactics: Detection](https://specterops.io/training/adversary-tactics-detection/)
 - [FalconForce Advanced Detection Engineering in the Enterprise training](https://falconforce.nl/services/training/advanced-detection-engineering-training/)
 - [TCM Security Detection Engineering for Beginners](https://academy.tcm-sec.com/p/detection-engineering-for-beginners)
@@ -244,11 +266,16 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [SANS SEC511: Cybersecurity Engineering: Advanced Threat Detection and Monitoring](https://www.sans.org/cyber-security-courses/cybersecurity-engineering-advanced-threat-detection-monitoring/)
 
 ### Podcasts
-- [Detection Challenging Paradigms | SpecterOps](https://www.dcppodcast.com/all-episodes) - Discussing various topics on threat detection.
+- [Detection Challenging Paradigms | SpecterOps](https://creators.spotify.com/pod/show/dcppodcast) - Discussing various topics on threat detection.
 - [Detection at Scale](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270) - Discussing threat landscape and a lot detection related topics.
 
 ### Videos
 - [Atomics on a Friday](https://www.youtube.com/@atomicsonafriday/streams) - YouTube series discussing detection opportunities.
+- [Detection as Code: Detection Development Using CI/CD](https://www.youtube.com/watch?v=_JEvyem4ryg) - RSA Presentation.
+- [Detection-as-code: Why it works and where to start (Kyle Bailey)](https://www.youtube.com/watch?v=VaZp7A6Q9zE) - BSides presentation.
+
+### Conferences
+- [DEATHcon](https://deathcon.io/) - Conference focused on Detection Engineering and Threat Hunting (DEATH).
 
 ### Twitter/X
 - [@sigma_hq](https://x.com/sigma_hq)
@@ -256,8 +283,16 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [@frack113](https://x.com/frack113)
 - [@nas_bench](https://x.com/nas_bench)
 - [@SBousseaden](https://x.com/SBousseaden)
+- [@ateixei](https://x.com/ateixei)
 - [@SecurityAura](https://x.com/SecurityAura)
 - [@Oddvarmoe](https://x.com/Oddvarmoe)
 - [@jaredcatkinson](https://x.com/jaredcatkinson)
 - [@olafhartong](https://x.com/olafhartong)
+- [@bohops](https://x.com/bohops)
+- [@nextronresearch](https://x.com/nextronresearch)
 - [Awesome Detection List](https://x.com/i/lists/952735755838738432)
+
+### Other Resource Aggregator Projects
+- [Awesome Detection Engineering | infosecB](https://github.com/infosecB/awesome-detection-engineering)
+- [Awesome Threat Detection | 0x4D31](https://github.com/0x4D31/awesome-threat-detection)
+- [Detection Engineering Starter Pack | rfackroyd](https://github.com/rfackroyd/detection-engineering-starter-pack)
