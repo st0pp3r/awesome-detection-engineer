@@ -19,5 +19,5 @@ jobs:
     - uses: urlstechie/urlchecker-action@master
       with:
         file_types: .md
-        retry_count: 3
-        timeout: 120
+        retry_count: 5
+        timeout: 180
