@@ -101,6 +101,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [rtt.secdude.de](https://rtt.secdude.de/) - Nice page that includes commands mapped to MITRE ATT&CK.
 - [Network Flight Simulator](https://github.com/alphasoc/flightsim) - Flightsim is a lightweight utility used to generate malicious network traffic.
 - [Game of Active Directory Lab | Orange CyberDefense](https://github.com/Orange-Cyberdefense/GOAD) -The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
+- [Eventum](https://github.com/eventum-generator/eventum) - Data generation platform for producing synthetic event streams with complex correlations.
 
 ### Logging Configuration and Best Practices
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
