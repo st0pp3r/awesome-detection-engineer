@@ -190,6 +190,8 @@ Resources are tailored as much as possible to the role of the detection engineer
  - [BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
  - [Detection LAB](https://github.com/clong/DetectionLab/)
  - [Constructing Defense](https://course.constructingdefense.com/constructing-defense)
+ - [SOCLabs](https://www.soc-labs.top/en/) - Hands-on detection engineering labs for SOC/Blue Team, including Sigma, Splunk, Elastic, and OpenSearch rule-writing practice.
+
 
 ### Data Manipulation Online Tools
  - [Regex101](https://regex101.com/) - Regex testing.
