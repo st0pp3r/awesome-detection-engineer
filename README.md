@@ -303,4 +303,4 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Detection Engineering Starter Pack | rfackroyd](https://github.com/rfackroyd/detection-engineering-starter-pack)
 
 ### tavilefty changes
-- [Tool Analysis Result Sheet] (https://jpcertcc.github.io/ToolAnalysisResultSheet) - While not a proper detection related work, this website does give us an idea about the forensics implications of different tools which can be leveraged for tool-based detections. Low hanging fruit.
+- [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet) - While not a proper detection related work, this website does give us an idea about the forensics implications of different tools which can be leveraged for tool-based detections. Low hanging fruit.
