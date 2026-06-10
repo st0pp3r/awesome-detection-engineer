@@ -163,7 +163,9 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Apache Custom Log Format](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html)
 - [IIS Log File Format](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525807(v=vs.90))
 - [NGINX Access Log Format](https://nginx.org/en/docs/http/ngx_http_log_module.html#access_log)
-- [GitHub Event IDs](https://docs.github.com/en/enterprise-server@3.18/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise)
+- [GitHub Event IDs for Organization](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/audit-log-events-for-your-organization
+- [GitHub Event IDs for Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
+- [GitHub Security Log Events](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/security-log-events
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
