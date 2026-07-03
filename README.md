@@ -65,6 +65,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Chronicle (GCP) Rules](https://github.com/chronicle/detection-rules) - Detection rules written for the Chronicle Platform.
 - [SOC Prime](https://socprime.com/) - Great collection of free and paid detection rules (requires registration).
 - [SnapAttack](https://snapattack.com/) - Collection of free and paid detection rules (requires registration).
+- [Clankerusecase](https://clankerusecase.com) - Open-source library of 7,800+ MITRE ATT&CK-mapped detections in Defender KQL, Sentinel KQL, Sigma, Splunk SPL, Datadog, Falcon & CloudWatch, generated from live threat-intel and schema-validated.
 
 ### Detection Logic
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
