@@ -200,11 +200,11 @@ Resources are tailored as much as possible to the role of the detection engineer
 ### Data Manipulation Online Tools
  - [Regex101](https://regex101.com/) - Regex testing.
  - [Regexr](https://regexr.com/) - Regex testing.
- - [Remove Duplicates Online](https://www.remove-duplicates-online.org/guides/deduplicate-ioc-log-lines-locally) - Browser-local exact-line deduplication for IOC, URL, domain, and log lists; does not normalize URLs.
  - [CyberChef](https://gchq.github.io/CyberChef/) - Multiple data manipulation tools, decoders, decryptors.
  - [JSON Formatter](https://jsonformatter.curiousconcept.com/#) - JSON Beautifier.
  - [JSONCrack](https://jsoncrack.com/editor) - JSON, YML, CSV, XML Editor.
  - [JSONing](https://jsoning.com/) - Multiple JSON tools.
+ - [Remove Duplicates Online](https://www.remove-duplicates-online.org/remove-duplicate-lines) - Browser-local exact-line deduplication for IOC, URL, domain, and log lists; does not normalize URLs.
  - [Grok Debugger](https://grokdebugger.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Mechanic](https://textmechanic.com/) - Text manipulation  (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
