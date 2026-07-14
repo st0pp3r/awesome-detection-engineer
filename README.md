@@ -204,6 +204,7 @@ Resources are tailored as much as possible to the role of the detection engineer
  - [JSON Formatter](https://jsonformatter.curiousconcept.com/#) - JSON Beautifier.
  - [JSONCrack](https://jsoncrack.com/editor) - JSON, YML, CSV, XML Editor.
  - [JSONing](https://jsoning.com/) - Multiple JSON tools.
+ - [Remove Duplicates Online](https://www.remove-duplicates-online.org/remove-duplicate-lines) - Browser-local exact-line deduplication for IOC, URL, domain, and log lists; does not normalize URLs.
  - [Grok Debugger](https://grokdebugger.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Mechanic](https://textmechanic.com/) - Text manipulation  (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
