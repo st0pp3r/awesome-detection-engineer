@@ -90,6 +90,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 ### Detection Tests and Emulation Tools
 - [HackingTheCloud](https://hackingthe.cloud) - Encyclopedia of the attacks/tactics/techniques for cloud exploitation.
 - [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) - Tests mapped to the MITRE ATT&CK framework.
+- [DLL Injection Lab](https://github.com/bsmensah-ctrl/DLL-Injection-Lab) - Deterministic DLL-injection detection test harness that emits a five-event synthetic telemetry chain and exports JSON, Markdown, and SARIF without touching live processes.
 - [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) - Similar to red team atomics but for cloud.
 - [MalwLess Simulation Tool (MST)](https://github.com/n0dec/MalwLess) - Open source tool that allows you to simulate system compromise or attack behaviors without running processes.
 - [LOLBAS Project](https://lolbas-project.github.io/) - Binaries, scripts, and libraries that can be used for Living Off The Land techniques. Includes commands that can be run to test TTPs.
