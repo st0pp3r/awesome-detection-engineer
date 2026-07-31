@@ -195,6 +195,7 @@ Resources are tailored as much as possible to the role of the detection engineer
  - [Detection LAB](https://github.com/clong/DetectionLab/)
  - [Constructing Defense](https://course.constructingdefense.com/constructing-defense)
  - [SOCLabs](https://www.soc-labs.top/en/) - Hands-on detection engineering labs for SOC/Blue Team, including Sigma, Splunk, Elastic, and OpenSearch rule-writing practice.
+- [Control Assurance Lab](https://github.com/gyubin02/control-assurance-lab) - Reproducible synthetic experiments that identify security-control failures masked by safe final outcomes.
 
 
 ### Data Manipulation Online Tools
