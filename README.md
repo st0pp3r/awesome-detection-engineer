@@ -19,7 +19,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Labs](#labs) - Labs for detection engineers.
 - [Data Manipulation Online Tools](#data-manipulation-online-tools) - Useful online tools for detection engineer's day-to-day.
 - [Blogs](#blogs) - Blogs that regularly release detection engineering-related content.
-- [Newsletters](#newsletters) - Newsletters with updates on detection engineering.
+- [Newsletters and Aggregators](#newsletters-and-aggregators) - Newsletters with updates on detection engineering.
 - [Good Reads](#good-reads) - Noteworthy blog posts related to detection engineering.
 - [Books](#books) - Books on detection engineering.
 - [Trainings](#trainings) - Available trainings focused on detection engineering.
@@ -35,7 +35,6 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Elastic Security for Endpoint Rules](https://github.com/elastic/protections-artifacts/tree/main)- Elastic's Security for Endpoint detection rules.
 - [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Rules GitHub Repository](https://github.com/splunk/security_content/tree/develop/detections) - Splunk's detection rules.
 - [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) and [Sentinel Solution Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions)- Collection of KQL detection queries for Sentinel.
-- [FortiSIEM Rules](https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_2/rules/rule_descriptions.htm) - FortiSIEM's detection rules.
 - [LogPoint Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/index.html) - LogPoint's alert rules.
 - [Datadog Detections](https://docs.datadoghq.com/security/default_rules/#all) - Collection of detection rules by Datadog.
 - [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) - Wazuh ruleset repository.
@@ -209,7 +208,6 @@ Resources are tailored as much as possible to the role of the detection engineer
  - [Text Mechanic](https://textmechanic.com/) - Text manipulation  (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Hash Calculator](https://md5calc.com/hash) - Hash calculator and other tools.
- - [Free Formatter](https://www.freeformatter.com/xml-formatter.html) - Formatter for XML, JSON, HTML.
  - [Diff Checker](https://www.diffchecker.com/) - Diff comparison.
  - [CSVJSON](https://csvjson.com/csv2json) - CSV to JSON converter and vice versa.
  - [ChatGPT](https://chatgpt.com/) - Can be used to transform data.
@@ -219,13 +217,12 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Red Canary Blog](https://redcanary.com/blog) and [Red Canary Blog Threat Detection Category](https://redcanary.com/blog/?topic=threat-detection)
 - [Elastic Security Labs Blog](https://www.elastic.co/security-labs) and [Elastic Security Labs Blog Detection Engineering Category](https://www.elastic.co/security-labs/topics/detection-engineering). Also everything [Samir Bousseaden](https://www.elastic.co/security-labs/author/samir-bousseaden).
 - [SpecterOps Blog](https://specterops.io/blog) and [SpecterOps on Detection series | Jared Atkinson](https://posts.specterops.io/on-detection/home)
-- [Detect.fyi](https://detect.fyi/) - Collection of good detection engineering articles.
-- [Detections.xyz](https://detections.xyz/) - Collection of good detection engineering articles.
 - [Alex Teixeira on Medium](https://ateixei.medium.com/) - Frequently writes about detection engineering topics.
 - [Detection at Scale](https://www.detectionatscale.com/) - Collection of good detection engineering articles.
 
-### Newsletters
-- [Detection Engineering Weekly](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
+### Newsletters & Aggregators
+- [Detection Engineering Weekly | Zack Allen](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
+- [Detect.fyi | Alex Teixeira](https://detect.fyi/) - Collection of good detection engineering articles.
 
 ### Good Reads
 - [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051)
@@ -264,11 +261,12 @@ Resources are tailored as much as possible to the role of the detection engineer
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
  - [Practical Threat Detection Engineering: A hands-on guide to planning, developing, and validating detection capabilities](https://www.packtpub.com/en-sg/product/practical-threat-detection-engineering-9781801076715)
  - [Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware](https://link.springer.com/book/10.1007/978-1-4842-6193-4)
+ - [A Dance of Red and Blue: The Art and Science of Detection Engineering](https://www.amazon.com/dp/B0GT1MD1R3)
 
 ### Trainings
 - [XINTRA Attacking and Defending Azure & M365](https://www.xintra.org/courses/1-attacking-and-defending-azure-m365)
 - [Specter Ops Adversary Tactics: Detection](https://specterops.io/training/adversary-tactics-detection/)
-- [FalconForce Advanced Detection Engineering in the Enterprise training](https://falconforce.nl/services/training/advanced-detection-engineering-training/)
+- [FalconForce Advanced Detection Engineering in the Enterprise training](https://falconforce.nl/services/training)
 - [TCM Security Detection Engineering for Beginners](https://academy.tcm-sec.com/p/detection-engineering-for-beginners)
 - [LetsDefend Detection Engineering Path](https://letsdefend.io/detection-engineering)
 - [SANS SEC555: Detection Engineering and SIEM Analytics](https://www.sans.org/cyber-security-courses/detection-engineering-siem-analytics/)
