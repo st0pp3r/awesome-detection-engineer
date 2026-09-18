@@ -68,7 +68,6 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [Clankerusecase](https://clankerusecase.com) - Open-source library of 7,800+ MITRE ATT&CK-mapped detections in Defender KQL, Sentinel KQL, Sigma, Splunk SPL, Datadog, Falcon & CloudWatch, generated from live threat-intel and schema-validated.
 - [LogTriage Detection Rules](https://logtriage.app/rules/) - Free Sigma rules, each validated against a real sample log (fires on malicious, silent on benign); mapped to log source + MITRE ATT&CK.
 
-
 ### Detection Logic
 - [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
 - [Antivirus Cheatsheet | Nextron Systems](https://www.nextron-systems.com/?s=antivirus) - Antivirus keywords and detection logic from Nextron.
