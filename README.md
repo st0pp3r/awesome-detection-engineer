@@ -223,6 +223,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 ### Newsletters & Aggregators
 - [Detection Engineering Weekly | Zack Allen](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
 - [Detect.fyi | Alex Teixeira](https://detect.fyi/) - Collection of good detection engineering articles.
+- [ICHI – Internet Cyber Health Index](https://ichi.global) - Free daily internet cyber-health barometer aggregating cybersecurity news and telemetry signals from public sources; useful for detection engineers tracking current threat trends and calibrating detection priorities.
 
 ### Good Reads
 - [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051)
