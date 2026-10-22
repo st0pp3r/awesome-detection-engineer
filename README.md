@@ -166,6 +166,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [GitHub Event IDs for Organization](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/audit-log-events-for-your-organization)
 - [GitHub Event IDs for Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise)
 - [GitHub Security Log Events](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/security-log-events)
+- [Nutanix Audit Logs](https://portal.nutanix.com/page/documents/details?targetId=Prism-Central-Alert-Reference-vpc_7_6:tro-logs-vm-audits-pc-r.html)
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
