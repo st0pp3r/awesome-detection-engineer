@@ -168,6 +168,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [GitHub Security Log Events](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/security-log-events)
 - [Nutanix Audit Logs](https://portal.nutanix.com/page/documents/details?targetId=Prism-Central-Alert-Reference-vpc_7_6:tro-logs-vm-audits-pc-r.html)
 - [Nutanix Log Files](https://portal.nutanix.com/page/documents/details?targetId=Prism-Central-Alert-Reference-vpc_7_6:tro-pcvm-logs-r.html)
+- [Gitlab Audit Event Types](https://docs.gitlab.com/user/compliance/audit_event_types/)
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
@@ -224,7 +225,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Newsletters & Aggregators
 - [Detection Engineering Weekly | Zack Allen](https://www.detectionengineering.net/) - A newsletter with weekly detection related online sources.
-- [Detect.fyi | Alex Teixeira](https://detect.fyi/) - Collection of good detection engineering articles.
+- [Detect.FYI](https://detect.fyi/) - Collection of good detection engineering articles.
 
 ### Good Reads
 - [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051)
@@ -258,6 +259,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 - [On Confidence | Richard Ackroyd](https://medium.com/@rfackroyd/on-confidence-fd5dc954aa77)
 - [Introducing the DRAPE Index: How to measure (in)success in a Threat Detection practice? | Alex Teixeira](https://detect.fyi/introducing-the-drape-index-how-to-measure-in-success-in-a-threat-detection-practice-154fd977f731)
 - [How data science can boost your detection engineering maintenance and keep you from herding sheep | Agapios Tsolakis](https://medium.com/falconforce/how-data-science-can-boost-your-detection-engineering-maintenance-and-keep-you-from-herding-sheep-8713b7220776)
+- [Detection Engineering: Practicing Detection-as-Code Series | Stamatis Chatzimangou](https://blog.nviso.eu/2025/07/08/detection-engineering-practicing-detection-as-code-introduction-part-1/)
 
 ### Books
  - [Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code](https://www.packtpub.com/en-no/product/automating-security-detection-engineering-9781837636419)
